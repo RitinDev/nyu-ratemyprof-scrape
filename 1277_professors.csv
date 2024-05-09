@@ -1,0 +1,1278 @@
+Professor Name,Professor Rating,Professor Department,Difficulty
+Julia Keefer,4.5,Film,2.8
+Alan Corns,2.8,Economics,4.5
+Hasia Diner,3.8,Social Science,3.2
+Steve Hutkins,4.5,Interdisciplinary Studies,2.0
+Tyler Volk,3.5,Science,3.0
+Pádraig Cearúil,4.5,Ethnic Studies,2.7
+Barbara Heyns,2.9,Social Science,2.6
+Joel Spencer,3.7,Computer Science,3.2
+Julia Keefer,4.5,Film,2.8
+Alan Corns,2.8,Economics,4.5
+Hasia Diner,3.8,Social Science,3.2
+Steve Hutkins,4.5,Interdisciplinary Studies,2.0
+Tyler Volk,3.5,Science,3.0
+Pádraig Cearúil,4.5,Ethnic Studies,2.7
+Barbara Heyns,2.9,Social Science,2.6
+Joel Spencer,3.7,Computer Science,3.2
+Julia Keefer,4.5,Film,2.8
+Alan Corns,2.8,Economics,4.5
+Hasia Diner,3.8,Social Science,3.2
+Steve Hutkins,4.5,Interdisciplinary Studies,2.0
+Tyler Volk,3.5,Science,3.0
+Pádraig Cearúil,4.5,Ethnic Studies,2.7
+Barbara Heyns,2.9,Social Science,2.6
+Joel Spencer,3.7,Computer Science,3.2
+Phillip Kain,4.3,English,3.6
+Richard Borowsky,2.6,Biology,3.5
+Meretzky Mark,3.5,Computer Science,2.7
+Susanna Horng,3.3,Writing,3.5
+Robert Diyanni,4.7,Cultural Studies,2.3
+Arlene Davila,3.2,Hispanic Studies,2.4
+Steve Blader,4.7,Business,3.0
+William Serrin,3.8,Journalism,3.5
+Julia Keefer,4.5,Film,2.8
+Alan Corns,2.8,Economics,4.5
+Hasia Diner,3.8,Social Science,3.2
+Steve Hutkins,4.5,Interdisciplinary Studies,2.0
+Tyler Volk,3.5,Science,3.0
+Pádraig Cearúil,4.5,Ethnic Studies,2.7
+Barbara Heyns,2.9,Social Science,2.6
+Joel Spencer,3.7,Computer Science,3.2
+Phillip Kain,4.3,English,3.6
+Richard Borowsky,2.6,Biology,3.5
+Meretzky Mark,3.5,Computer Science,2.7
+Susanna Horng,3.3,Writing,3.5
+Robert Diyanni,4.7,Cultural Studies,2.3
+Arlene Davila,3.2,Hispanic Studies,2.4
+Steve Blader,4.7,Business,3.0
+William Serrin,3.8,Journalism,3.5
+Ward Regan,3.8,Philosophy,2.7
+Harvey Molotch,3.7,Social Science,2.7
+Robert Chazan,4.4,Hebrew,2.5
+Stephen Cohen,3.6,History,3.1
+Connie Hayman,0.0,Journalism,0.0
+Manos Pantelidis,4.2,Communication,1.9
+Henry Em,3.4,Asian Studies,3.1
+Joan Welkowitz,5.0,Psychology,2.0
+Julia Keefer,4.5,Film,2.8
+Alan Corns,2.8,Economics,4.5
+Hasia Diner,3.8,Social Science,3.2
+Steve Hutkins,4.5,Interdisciplinary Studies,2.0
+Tyler Volk,3.5,Science,3.0
+Pádraig Cearúil,4.5,Ethnic Studies,2.7
+Barbara Heyns,2.9,Social Science,2.6
+Joel Spencer,3.7,Computer Science,3.2
+Phillip Kain,4.3,English,3.6
+Richard Borowsky,2.6,Biology,3.5
+Meretzky Mark,3.5,Computer Science,2.7
+Susanna Horng,3.3,Writing,3.5
+Robert Diyanni,4.7,Cultural Studies,2.3
+Arlene Davila,3.2,Hispanic Studies,2.4
+Steve Blader,4.7,Business,3.0
+William Serrin,3.8,Journalism,3.5
+Ward Regan,3.8,Philosophy,2.7
+Harvey Molotch,3.7,Social Science,2.7
+Robert Chazan,4.4,Hebrew,2.5
+Stephen Cohen,3.6,History,3.1
+Connie Hayman,0.0,Journalism,0.0
+Manos Pantelidis,4.2,Communication,1.9
+Henry Em,3.4,Asian Studies,3.1
+Joan Welkowitz,5.0,Psychology,2.0
+Stephen Brown,4.8,Business,2.5
+Rebecca Packer,4.3,English,2.2
+Gordon Farrell,4.7,Theater,2.6
+Elizabeth Phelps,4.2,Psychology,2.8
+Arnie Baskin,3.9,Film,1.9
+Nikhil Singh,4.0,History,2.9
+Peter Chelkowski,3.0,Theology,1.9
+Rolf Wolfswinkel,3.0,Humanities,3.6
+Julia Keefer,4.5,Film,2.8
+Alan Corns,2.8,Economics,4.5
+Hasia Diner,3.8,Social Science,3.2
+Steve Hutkins,4.5,Interdisciplinary Studies,2.0
+Tyler Volk,3.5,Science,3.0
+Pádraig Cearúil,4.5,Ethnic Studies,2.7
+Barbara Heyns,2.9,Social Science,2.6
+Joel Spencer,3.7,Computer Science,3.2
+Phillip Kain,4.3,English,3.6
+Richard Borowsky,2.6,Biology,3.5
+Meretzky Mark,3.5,Computer Science,2.7
+Susanna Horng,3.3,Writing,3.5
+Robert Diyanni,4.7,Cultural Studies,2.3
+Arlene Davila,3.2,Hispanic Studies,2.4
+Steve Blader,4.7,Business,3.0
+William Serrin,3.8,Journalism,3.5
+Ward Regan,3.8,Philosophy,2.7
+Harvey Molotch,3.7,Social Science,2.7
+Robert Chazan,4.4,Hebrew,2.5
+Stephen Cohen,3.6,History,3.1
+Connie Hayman,0.0,Journalism,0.0
+Manos Pantelidis,4.2,Communication,1.9
+Henry Em,3.4,Asian Studies,3.1
+Joan Welkowitz,5.0,Psychology,2.0
+Stephen Brown,4.8,Business,2.5
+Rebecca Packer,4.3,English,2.2
+Gordon Farrell,4.7,Theater,2.6
+Elizabeth Phelps,4.2,Psychology,2.8
+Arnie Baskin,3.9,Film,1.9
+Nikhil Singh,4.0,History,2.9
+Peter Chelkowski,3.0,Theology,1.9
+Rolf Wolfswinkel,3.0,Humanities,3.6
+David Greenberg,2.2,Sociology,3.2
+Paul Fleming,4.7,Languages,2.6
+Antonio Rutigliano,4.4,History,2.1
+Martin Harries,3.8,Theater,3.1
+Grant Wenaus,4.1,Music,3.8
+Anya Saffir,4.6,Theater,3.3
+Rodolfo Aiello,2.3,Languages,3.7
+Bill Phillips,4.0,Communication,2.1
+Julia Keefer,4.5,Film,2.8
+Alan Corns,2.8,Economics,4.5
+Hasia Diner,3.8,Social Science,3.2
+Steve Hutkins,4.5,Interdisciplinary Studies,2.0
+Tyler Volk,3.5,Science,3.0
+Pádraig Cearúil,4.5,Ethnic Studies,2.7
+Barbara Heyns,2.9,Social Science,2.6
+Joel Spencer,3.7,Computer Science,3.2
+Phillip Kain,4.3,English,3.6
+Richard Borowsky,2.6,Biology,3.5
+Meretzky Mark,3.5,Computer Science,2.7
+Susanna Horng,3.3,Writing,3.5
+Robert Diyanni,4.7,Cultural Studies,2.3
+Arlene Davila,3.2,Hispanic Studies,2.4
+Steve Blader,4.7,Business,3.0
+William Serrin,3.8,Journalism,3.5
+Ward Regan,3.8,Philosophy,2.7
+Harvey Molotch,3.7,Social Science,2.7
+Robert Chazan,4.4,Hebrew,2.5
+Stephen Cohen,3.6,History,3.1
+Connie Hayman,0.0,Journalism,0.0
+Manos Pantelidis,4.2,Communication,1.9
+Henry Em,3.4,Asian Studies,3.1
+Joan Welkowitz,5.0,Psychology,2.0
+Stephen Brown,4.8,Business,2.5
+Rebecca Packer,4.3,English,2.2
+Gordon Farrell,4.7,Theater,2.6
+Elizabeth Phelps,4.2,Psychology,2.8
+Arnie Baskin,3.9,Film,1.9
+Nikhil Singh,4.0,History,2.9
+Peter Chelkowski,3.0,Theology,1.9
+Rolf Wolfswinkel,3.0,Humanities,3.6
+David Greenberg,2.2,Sociology,3.2
+Paul Fleming,4.7,Languages,2.6
+Antonio Rutigliano,4.4,History,2.1
+Martin Harries,3.8,Theater,3.1
+Grant Wenaus,4.1,Music,3.8
+Anya Saffir,4.6,Theater,3.3
+Rodolfo Aiello,2.3,Languages,3.7
+Bill Phillips,4.0,Communication,2.1
+Keith Vincent,4.2,Literature,2.6
+Charles Wilson,3.3,Economics,4.1
+Gordon Pradl,4.5,English,2.6
+Mahnaz Yousefzadeh,2.3,Humanities,3.1
+Walter Alvarez,3.6,Social Science,1.8
+Bill Wesbrooks,4.4,Music,3.0
+John Leahy,3.9,Economics,3.7
+Neville Kallenbach,3.7,Chemistry,3.3
+Julia Keefer,4.5,Film,2.8
+Alan Corns,2.8,Economics,4.5
+Hasia Diner,3.8,Social Science,3.2
+Steve Hutkins,4.5,Interdisciplinary Studies,2.0
+Tyler Volk,3.5,Science,3.0
+Pádraig Cearúil,4.5,Ethnic Studies,2.7
+Barbara Heyns,2.9,Social Science,2.6
+Joel Spencer,3.7,Computer Science,3.2
+Phillip Kain,4.3,English,3.6
+Richard Borowsky,2.6,Biology,3.5
+Meretzky Mark,3.5,Computer Science,2.7
+Susanna Horng,3.3,Writing,3.5
+Robert Diyanni,4.7,Cultural Studies,2.3
+Arlene Davila,3.2,Hispanic Studies,2.4
+Steve Blader,4.7,Business,3.0
+William Serrin,3.8,Journalism,3.5
+Ward Regan,3.8,Philosophy,2.7
+Harvey Molotch,3.7,Social Science,2.7
+Robert Chazan,4.4,Hebrew,2.5
+Stephen Cohen,3.6,History,3.1
+Connie Hayman,0.0,Journalism,0.0
+Manos Pantelidis,4.2,Communication,1.9
+Henry Em,3.4,Asian Studies,3.1
+Joan Welkowitz,5.0,Psychology,2.0
+Stephen Brown,4.8,Business,2.5
+Rebecca Packer,4.3,English,2.2
+Gordon Farrell,4.7,Theater,2.6
+Elizabeth Phelps,4.2,Psychology,2.8
+Arnie Baskin,3.9,Film,1.9
+Nikhil Singh,4.0,History,2.9
+Peter Chelkowski,3.0,Theology,1.9
+Rolf Wolfswinkel,3.0,Humanities,3.6
+David Greenberg,2.2,Sociology,3.2
+Paul Fleming,4.7,Languages,2.6
+Antonio Rutigliano,4.4,History,2.1
+Martin Harries,3.8,Theater,3.1
+Grant Wenaus,4.1,Music,3.8
+Anya Saffir,4.6,Theater,3.3
+Rodolfo Aiello,2.3,Languages,3.7
+Bill Phillips,4.0,Communication,2.1
+Keith Vincent,4.2,Literature,2.6
+Charles Wilson,3.3,Economics,4.1
+Gordon Pradl,4.5,English,2.6
+Mahnaz Yousefzadeh,2.3,Humanities,3.1
+Walter Alvarez,3.6,Social Science,1.8
+Bill Wesbrooks,4.4,Music,3.0
+John Leahy,3.9,Economics,3.7
+Neville Kallenbach,3.7,Chemistry,3.3
+Barry Rugg,3.3,Chemistry,2.6
+Gabriel Miller,4.4,Chemistry,1.7
+Tom Drysdale,3.6,Photography,2.3
+Joanne Savio,4.4,Film,3.3
+Charles Potter,4.5,Film,3.2
+Ted Coons,3.0,Psychology,3.3
+Edmond Schonberg,4.0,Computer Science,3.5
+Don White,4.8,History,2.1
+Julia Keefer,4.5,Film,2.8
+Alan Corns,2.8,Economics,4.5
+Hasia Diner,3.8,Social Science,3.2
+Steve Hutkins,4.5,Interdisciplinary Studies,2.0
+Tyler Volk,3.5,Science,3.0
+Pádraig Cearúil,4.5,Ethnic Studies,2.7
+Barbara Heyns,2.9,Social Science,2.6
+Joel Spencer,3.7,Computer Science,3.2
+Phillip Kain,4.3,English,3.6
+Richard Borowsky,2.6,Biology,3.5
+Meretzky Mark,3.5,Computer Science,2.7
+Susanna Horng,3.3,Writing,3.5
+Robert Diyanni,4.7,Cultural Studies,2.3
+Arlene Davila,3.2,Hispanic Studies,2.4
+Steve Blader,4.7,Business,3.0
+William Serrin,3.8,Journalism,3.5
+Ward Regan,3.8,Philosophy,2.7
+Harvey Molotch,3.7,Social Science,2.7
+Robert Chazan,4.4,Hebrew,2.5
+Stephen Cohen,3.6,History,3.1
+Connie Hayman,0.0,Journalism,0.0
+Manos Pantelidis,4.2,Communication,1.9
+Henry Em,3.4,Asian Studies,3.1
+Joan Welkowitz,5.0,Psychology,2.0
+Stephen Brown,4.8,Business,2.5
+Rebecca Packer,4.3,English,2.2
+Gordon Farrell,4.7,Theater,2.6
+Elizabeth Phelps,4.2,Psychology,2.8
+Arnie Baskin,3.9,Film,1.9
+Nikhil Singh,4.0,History,2.9
+Peter Chelkowski,3.0,Theology,1.9
+Rolf Wolfswinkel,3.0,Humanities,3.6
+David Greenberg,2.2,Sociology,3.2
+Paul Fleming,4.7,Languages,2.6
+Antonio Rutigliano,4.4,History,2.1
+Martin Harries,3.8,Theater,3.1
+Grant Wenaus,4.1,Music,3.8
+Anya Saffir,4.6,Theater,3.3
+Rodolfo Aiello,2.3,Languages,3.7
+Bill Phillips,4.0,Communication,2.1
+Keith Vincent,4.2,Literature,2.6
+Charles Wilson,3.3,Economics,4.1
+Gordon Pradl,4.5,English,2.6
+Mahnaz Yousefzadeh,2.3,Humanities,3.1
+Walter Alvarez,3.6,Social Science,1.8
+Bill Wesbrooks,4.4,Music,3.0
+John Leahy,3.9,Economics,3.7
+Neville Kallenbach,3.7,Chemistry,3.3
+Barry Rugg,3.3,Chemistry,2.6
+Gabriel Miller,4.4,Chemistry,1.7
+Tom Drysdale,3.6,Photography,2.3
+Joanne Savio,4.4,Film,3.3
+Charles Potter,4.5,Film,3.2
+Ted Coons,3.0,Psychology,3.3
+Edmond Schonberg,4.0,Computer Science,3.5
+Don White,4.8,History,2.1
+Scott Hightower,4.2,English,2.1
+Mary Carpenter,4.5,Communication,2.2
+Heidi Fuld,4.3,Education,3.0
+Bertell Ollman,2.3,Political Science,2.0
+Ted Magder,3.8,Communication,2.9
+Rachelle Sussman,4.1,Communication,2.9
+Julia Keefer,4.5,Film,2.8
+Alan Corns,2.8,Economics,4.5
+Hasia Diner,3.8,Social Science,3.2
+Steve Hutkins,4.5,Interdisciplinary Studies,2.0
+Tyler Volk,3.5,Science,3.0
+Pádraig Cearúil,4.5,Ethnic Studies,2.7
+Barbara Heyns,2.9,Social Science,2.6
+Joel Spencer,3.7,Computer Science,3.2
+Phillip Kain,4.3,English,3.6
+Richard Borowsky,2.6,Biology,3.5
+Meretzky Mark,3.5,Computer Science,2.7
+Susanna Horng,3.3,Writing,3.5
+Robert Diyanni,4.7,Cultural Studies,2.3
+Arlene Davila,3.2,Hispanic Studies,2.4
+Steve Blader,4.7,Business,3.0
+William Serrin,3.8,Journalism,3.5
+Ward Regan,3.8,Philosophy,2.7
+Harvey Molotch,3.7,Social Science,2.7
+Robert Chazan,4.4,Hebrew,2.5
+Stephen Cohen,3.6,History,3.1
+Connie Hayman,0.0,Journalism,0.0
+Manos Pantelidis,4.2,Communication,1.9
+Henry Em,3.4,Asian Studies,3.1
+Joan Welkowitz,5.0,Psychology,2.0
+Stephen Brown,4.8,Business,2.5
+Rebecca Packer,4.3,English,2.2
+Gordon Farrell,4.7,Theater,2.6
+Elizabeth Phelps,4.2,Psychology,2.8
+Arnie Baskin,3.9,Film,1.9
+Nikhil Singh,4.0,History,2.9
+Peter Chelkowski,3.0,Theology,1.9
+Rolf Wolfswinkel,3.0,Humanities,3.6
+David Greenberg,2.2,Sociology,3.2
+Paul Fleming,4.7,Languages,2.6
+Antonio Rutigliano,4.4,History,2.1
+Martin Harries,3.8,Theater,3.1
+Grant Wenaus,4.1,Music,3.8
+Anya Saffir,4.6,Theater,3.3
+Rodolfo Aiello,2.3,Languages,3.7
+Bill Phillips,4.0,Communication,2.1
+Keith Vincent,4.2,Literature,2.6
+Charles Wilson,3.3,Economics,4.1
+Gordon Pradl,4.5,English,2.6
+Mahnaz Yousefzadeh,2.3,Humanities,3.1
+Walter Alvarez,3.6,Social Science,1.8
+Bill Wesbrooks,4.4,Music,3.0
+John Leahy,3.9,Economics,3.7
+Neville Kallenbach,3.7,Chemistry,3.3
+Barry Rugg,3.3,Chemistry,2.6
+Gabriel Miller,4.4,Chemistry,1.7
+Tom Drysdale,3.6,Photography,2.3
+Joanne Savio,4.4,Film,3.3
+Charles Potter,4.5,Film,3.2
+Ted Coons,3.0,Psychology,3.3
+Edmond Schonberg,4.0,Computer Science,3.5
+Don White,4.8,History,2.1
+Scott Hightower,4.2,English,2.1
+Mary Carpenter,4.5,Communication,2.2
+Heidi Fuld,4.3,Education,3.0
+Bertell Ollman,2.3,Political Science,2.0
+Ted Magder,3.8,Communication,2.9
+Rachelle Sussman,4.1,Communication,2.9
+Elliot Wolfson,3.4,Theology,3.8
+Fred Greenleaf,3.2,Mathematics,3.6
+Qiuxia Shao,4.7,East Asian Studies,3.3
+Robert Wallace,2.6,Science,3.3
+John Richardson,4.4,Philosophy,3.0
+Ned Block,4.3,Philosophy,3.2
+Paul Glimcher,4.7,Science,3.6
+Rena Mueller,3.0,Music,3.4
+Julia Keefer,4.5,Film,2.8
+Alan Corns,2.8,Economics,4.5
+Hasia Diner,3.8,Social Science,3.2
+Steve Hutkins,4.5,Interdisciplinary Studies,2.0
+Tyler Volk,3.5,Science,3.0
+Pádraig Cearúil,4.5,Ethnic Studies,2.7
+Barbara Heyns,2.9,Social Science,2.6
+Joel Spencer,3.7,Computer Science,3.2
+Phillip Kain,4.3,English,3.6
+Richard Borowsky,2.6,Biology,3.5
+Meretzky Mark,3.5,Computer Science,2.7
+Susanna Horng,3.3,Writing,3.5
+Robert Diyanni,4.7,Cultural Studies,2.3
+Arlene Davila,3.2,Hispanic Studies,2.4
+Steve Blader,4.7,Business,3.0
+William Serrin,3.8,Journalism,3.5
+Ward Regan,3.8,Philosophy,2.7
+Harvey Molotch,3.7,Social Science,2.7
+Robert Chazan,4.4,Hebrew,2.5
+Stephen Cohen,3.6,History,3.1
+Connie Hayman,0.0,Journalism,0.0
+Manos Pantelidis,4.2,Communication,1.9
+Henry Em,3.4,Asian Studies,3.1
+Joan Welkowitz,5.0,Psychology,2.0
+Stephen Brown,4.8,Business,2.5
+Rebecca Packer,4.3,English,2.2
+Gordon Farrell,4.7,Theater,2.6
+Elizabeth Phelps,4.2,Psychology,2.8
+Arnie Baskin,3.9,Film,1.9
+Nikhil Singh,4.0,History,2.9
+Peter Chelkowski,3.0,Theology,1.9
+Rolf Wolfswinkel,3.0,Humanities,3.6
+David Greenberg,2.2,Sociology,3.2
+Paul Fleming,4.7,Languages,2.6
+Antonio Rutigliano,4.4,History,2.1
+Martin Harries,3.8,Theater,3.1
+Grant Wenaus,4.1,Music,3.8
+Anya Saffir,4.6,Theater,3.3
+Rodolfo Aiello,2.3,Languages,3.7
+Bill Phillips,4.0,Communication,2.1
+Keith Vincent,4.2,Literature,2.6
+Charles Wilson,3.3,Economics,4.1
+Gordon Pradl,4.5,English,2.6
+Mahnaz Yousefzadeh,2.3,Humanities,3.1
+Walter Alvarez,3.6,Social Science,1.8
+Bill Wesbrooks,4.4,Music,3.0
+John Leahy,3.9,Economics,3.7
+Neville Kallenbach,3.7,Chemistry,3.3
+Barry Rugg,3.3,Chemistry,2.6
+Gabriel Miller,4.4,Chemistry,1.7
+Tom Drysdale,3.6,Photography,2.3
+Joanne Savio,4.4,Film,3.3
+Charles Potter,4.5,Film,3.2
+Ted Coons,3.0,Psychology,3.3
+Edmond Schonberg,4.0,Computer Science,3.5
+Don White,4.8,History,2.1
+Scott Hightower,4.2,English,2.1
+Mary Carpenter,4.5,Communication,2.2
+Heidi Fuld,4.3,Education,3.0
+Bertell Ollman,2.3,Political Science,2.0
+Ted Magder,3.8,Communication,2.9
+Rachelle Sussman,4.1,Communication,2.9
+Elliot Wolfson,3.4,Theology,3.8
+Fred Greenleaf,3.2,Mathematics,3.6
+Qiuxia Shao,4.7,East Asian Studies,3.3
+Robert Wallace,2.6,Science,3.3
+John Richardson,4.4,Philosophy,3.0
+Ned Block,4.3,Philosophy,3.2
+Paul Glimcher,4.7,Science,3.6
+Rena Mueller,3.0,Music,3.4
+Tommy Lee,3.8,Biology,3.3
+Jose Vazquez,4.7,Not Specified,1.5
+Frederic Lerner,2.7,Accounting,3.2
+Craig Calhoun,3.4,Sociology,3.0
+Wendy Bednarz,3.9,Film,2.7
+Jindrich Zezula,4.3,French,1.5
+Aaron Hipscher,3.9,Accounting,4.0
+Greg D'Amico,3.5,Communication,2.0
+Julia Keefer,4.5,Film,2.8
+Alan Corns,2.8,Economics,4.5
+Hasia Diner,3.8,Social Science,3.2
+Steve Hutkins,4.5,Interdisciplinary Studies,2.0
+Tyler Volk,3.5,Science,3.0
+Pádraig Cearúil,4.5,Ethnic Studies,2.7
+Barbara Heyns,2.9,Social Science,2.6
+Joel Spencer,3.7,Computer Science,3.2
+Phillip Kain,4.3,English,3.6
+Richard Borowsky,2.6,Biology,3.5
+Meretzky Mark,3.5,Computer Science,2.7
+Susanna Horng,3.3,Writing,3.5
+Robert Diyanni,4.7,Cultural Studies,2.3
+Arlene Davila,3.2,Hispanic Studies,2.4
+Steve Blader,4.7,Business,3.0
+William Serrin,3.8,Journalism,3.5
+Ward Regan,3.8,Philosophy,2.7
+Harvey Molotch,3.7,Social Science,2.7
+Robert Chazan,4.4,Hebrew,2.5
+Stephen Cohen,3.6,History,3.1
+Connie Hayman,0.0,Journalism,0.0
+Manos Pantelidis,4.2,Communication,1.9
+Henry Em,3.4,Asian Studies,3.1
+Joan Welkowitz,5.0,Psychology,2.0
+Stephen Brown,4.8,Business,2.5
+Rebecca Packer,4.3,English,2.2
+Gordon Farrell,4.7,Theater,2.6
+Elizabeth Phelps,4.2,Psychology,2.8
+Arnie Baskin,3.9,Film,1.9
+Nikhil Singh,4.0,History,2.9
+Peter Chelkowski,3.0,Theology,1.9
+Rolf Wolfswinkel,3.0,Humanities,3.6
+David Greenberg,2.2,Sociology,3.2
+Paul Fleming,4.7,Languages,2.6
+Antonio Rutigliano,4.4,History,2.1
+Martin Harries,3.8,Theater,3.1
+Grant Wenaus,4.1,Music,3.8
+Anya Saffir,4.6,Theater,3.3
+Rodolfo Aiello,2.3,Languages,3.7
+Bill Phillips,4.0,Communication,2.1
+Keith Vincent,4.2,Literature,2.6
+Charles Wilson,3.3,Economics,4.1
+Gordon Pradl,4.5,English,2.6
+Mahnaz Yousefzadeh,2.3,Humanities,3.1
+Walter Alvarez,3.6,Social Science,1.8
+Bill Wesbrooks,4.4,Music,3.0
+John Leahy,3.9,Economics,3.7
+Neville Kallenbach,3.7,Chemistry,3.3
+Barry Rugg,3.3,Chemistry,2.6
+Gabriel Miller,4.4,Chemistry,1.7
+Tom Drysdale,3.6,Photography,2.3
+Joanne Savio,4.4,Film,3.3
+Charles Potter,4.5,Film,3.2
+Ted Coons,3.0,Psychology,3.3
+Edmond Schonberg,4.0,Computer Science,3.5
+Don White,4.8,History,2.1
+Scott Hightower,4.2,English,2.1
+Mary Carpenter,4.5,Communication,2.2
+Heidi Fuld,4.3,Education,3.0
+Bertell Ollman,2.3,Political Science,2.0
+Ted Magder,3.8,Communication,2.9
+Rachelle Sussman,4.1,Communication,2.9
+Elliot Wolfson,3.4,Theology,3.8
+Fred Greenleaf,3.2,Mathematics,3.6
+Qiuxia Shao,4.7,East Asian Studies,3.3
+Robert Wallace,2.6,Science,3.3
+John Richardson,4.4,Philosophy,3.0
+Ned Block,4.3,Philosophy,3.2
+Paul Glimcher,4.7,Science,3.6
+Rena Mueller,3.0,Music,3.4
+Tommy Lee,3.8,Biology,3.3
+Jose Vazquez,4.7,Not Specified,1.5
+Frederic Lerner,2.7,Accounting,3.2
+Craig Calhoun,3.4,Sociology,3.0
+Wendy Bednarz,3.9,Film,2.7
+Jindrich Zezula,4.3,French,1.5
+Aaron Hipscher,3.9,Accounting,4.0
+Greg D'Amico,3.5,Communication,2.0
+Maurice Miller,2.4,Communication,1.7
+William Klein,3.0,Medicine,2.1
+Jane Laforge,3.7,English,3.0
+Gabriel Moran,3.6,Education,1.7
+Stefano Albertini,4.6,Italian,2.5
+Julia Keefer,4.5,Film,2.8
+Alan Corns,2.8,Economics,4.5
+Hasia Diner,3.8,Social Science,3.2
+Steve Hutkins,4.5,Interdisciplinary Studies,2.0
+Tyler Volk,3.5,Science,3.0
+Pádraig Cearúil,4.5,Ethnic Studies,2.7
+Barbara Heyns,2.9,Social Science,2.6
+Joel Spencer,3.7,Computer Science,3.2
+Phillip Kain,4.3,English,3.6
+Richard Borowsky,2.6,Biology,3.5
+Meretzky Mark,3.5,Computer Science,2.7
+Susanna Horng,3.3,Writing,3.5
+Robert Diyanni,4.7,Cultural Studies,2.3
+Arlene Davila,3.2,Hispanic Studies,2.4
+Steve Blader,4.7,Business,3.0
+William Serrin,3.8,Journalism,3.5
+Ward Regan,3.8,Philosophy,2.7
+Harvey Molotch,3.7,Social Science,2.7
+Robert Chazan,4.4,Hebrew,2.5
+Stephen Cohen,3.6,History,3.1
+Connie Hayman,0.0,Journalism,0.0
+Manos Pantelidis,4.2,Communication,1.9
+Henry Em,3.4,Asian Studies,3.1
+Joan Welkowitz,5.0,Psychology,2.0
+Stephen Brown,4.8,Business,2.5
+Rebecca Packer,4.3,English,2.2
+Gordon Farrell,4.7,Theater,2.6
+Elizabeth Phelps,4.2,Psychology,2.8
+Arnie Baskin,3.9,Film,1.9
+Nikhil Singh,4.0,History,2.9
+Peter Chelkowski,3.0,Theology,1.9
+Rolf Wolfswinkel,3.0,Humanities,3.6
+David Greenberg,2.2,Sociology,3.2
+Paul Fleming,4.7,Languages,2.6
+Antonio Rutigliano,4.4,History,2.1
+Martin Harries,3.8,Theater,3.1
+Grant Wenaus,4.1,Music,3.8
+Anya Saffir,4.6,Theater,3.3
+Rodolfo Aiello,2.3,Languages,3.7
+Bill Phillips,4.0,Communication,2.1
+Keith Vincent,4.2,Literature,2.6
+Charles Wilson,3.3,Economics,4.1
+Gordon Pradl,4.5,English,2.6
+Mahnaz Yousefzadeh,2.3,Humanities,3.1
+Walter Alvarez,3.6,Social Science,1.8
+Bill Wesbrooks,4.4,Music,3.0
+John Leahy,3.9,Economics,3.7
+Neville Kallenbach,3.7,Chemistry,3.3
+Barry Rugg,3.3,Chemistry,2.6
+Gabriel Miller,4.4,Chemistry,1.7
+Tom Drysdale,3.6,Photography,2.3
+Joanne Savio,4.4,Film,3.3
+Charles Potter,4.5,Film,3.2
+Ted Coons,3.0,Psychology,3.3
+Edmond Schonberg,4.0,Computer Science,3.5
+Don White,4.8,History,2.1
+Scott Hightower,4.2,English,2.1
+Mary Carpenter,4.5,Communication,2.2
+Heidi Fuld,4.3,Education,3.0
+Bertell Ollman,2.3,Political Science,2.0
+Ted Magder,3.8,Communication,2.9
+Rachelle Sussman,4.1,Communication,2.9
+Elliot Wolfson,3.4,Theology,3.8
+Fred Greenleaf,3.2,Mathematics,3.6
+Qiuxia Shao,4.7,East Asian Studies,3.3
+Robert Wallace,2.6,Science,3.3
+John Richardson,4.4,Philosophy,3.0
+Ned Block,4.3,Philosophy,3.2
+Paul Glimcher,4.7,Science,3.6
+Rena Mueller,3.0,Music,3.4
+Tommy Lee,3.8,Biology,3.3
+Jose Vazquez,4.7,Not Specified,1.5
+Frederic Lerner,2.7,Accounting,3.2
+Craig Calhoun,3.4,Sociology,3.0
+Wendy Bednarz,3.9,Film,2.7
+Jindrich Zezula,4.3,French,1.5
+Aaron Hipscher,3.9,Accounting,4.0
+Greg D'Amico,3.5,Communication,2.0
+Maurice Miller,2.4,Communication,1.7
+William Klein,3.0,Medicine,2.1
+Jane Laforge,3.7,English,3.0
+Gabriel Moran,3.6,Education,1.7
+Stefano Albertini,4.6,Italian,2.5
+Bryan Waterman,4.8,English,3.1
+Chris Kelly,4.2,Film,2.1
+Carol Martin,2.7,Film,3.0
+Julia Keefer,4.5,Film,2.8
+Alan Corns,2.8,Economics,4.5
+Hasia Diner,3.8,Social Science,3.2
+Steve Hutkins,4.5,Interdisciplinary Studies,2.0
+Tyler Volk,3.5,Science,3.0
+Pádraig Cearúil,4.5,Ethnic Studies,2.7
+Barbara Heyns,2.9,Social Science,2.6
+Joel Spencer,3.7,Computer Science,3.2
+Phillip Kain,4.3,English,3.6
+Richard Borowsky,2.6,Biology,3.5
+Meretzky Mark,3.5,Computer Science,2.7
+Susanna Horng,3.3,Writing,3.5
+Robert Diyanni,4.7,Cultural Studies,2.3
+Arlene Davila,3.2,Hispanic Studies,2.4
+Steve Blader,4.7,Business,3.0
+William Serrin,3.8,Journalism,3.5
+Ward Regan,3.8,Philosophy,2.7
+Harvey Molotch,3.7,Social Science,2.7
+Robert Chazan,4.4,Hebrew,2.5
+Stephen Cohen,3.6,History,3.1
+Connie Hayman,0.0,Journalism,0.0
+Manos Pantelidis,4.2,Communication,1.9
+Henry Em,3.4,Asian Studies,3.1
+Joan Welkowitz,5.0,Psychology,2.0
+Stephen Brown,4.8,Business,2.5
+Rebecca Packer,4.3,English,2.2
+Gordon Farrell,4.7,Theater,2.6
+Elizabeth Phelps,4.2,Psychology,2.8
+Arnie Baskin,3.9,Film,1.9
+Nikhil Singh,4.0,History,2.9
+Peter Chelkowski,3.0,Theology,1.9
+Rolf Wolfswinkel,3.0,Humanities,3.6
+David Greenberg,2.2,Sociology,3.2
+Paul Fleming,4.7,Languages,2.6
+Antonio Rutigliano,4.4,History,2.1
+Martin Harries,3.8,Theater,3.1
+Grant Wenaus,4.1,Music,3.8
+Anya Saffir,4.6,Theater,3.3
+Rodolfo Aiello,2.3,Languages,3.7
+Bill Phillips,4.0,Communication,2.1
+Keith Vincent,4.2,Literature,2.6
+Charles Wilson,3.3,Economics,4.1
+Gordon Pradl,4.5,English,2.6
+Mahnaz Yousefzadeh,2.3,Humanities,3.1
+Walter Alvarez,3.6,Social Science,1.8
+Bill Wesbrooks,4.4,Music,3.0
+John Leahy,3.9,Economics,3.7
+Neville Kallenbach,3.7,Chemistry,3.3
+Barry Rugg,3.3,Chemistry,2.6
+Gabriel Miller,4.4,Chemistry,1.7
+Tom Drysdale,3.6,Photography,2.3
+Joanne Savio,4.4,Film,3.3
+Charles Potter,4.5,Film,3.2
+Ted Coons,3.0,Psychology,3.3
+Edmond Schonberg,4.0,Computer Science,3.5
+Don White,4.8,History,2.1
+Scott Hightower,4.2,English,2.1
+Mary Carpenter,4.5,Communication,2.2
+Heidi Fuld,4.3,Education,3.0
+Bertell Ollman,2.3,Political Science,2.0
+Ted Magder,3.8,Communication,2.9
+Rachelle Sussman,4.1,Communication,2.9
+Elliot Wolfson,3.4,Theology,3.8
+Fred Greenleaf,3.2,Mathematics,3.6
+Qiuxia Shao,4.7,East Asian Studies,3.3
+Robert Wallace,2.6,Science,3.3
+John Richardson,4.4,Philosophy,3.0
+Ned Block,4.3,Philosophy,3.2
+Paul Glimcher,4.7,Science,3.6
+Rena Mueller,3.0,Music,3.4
+Tommy Lee,3.8,Biology,3.3
+Jose Vazquez,4.7,Not Specified,1.5
+Frederic Lerner,2.7,Accounting,3.2
+Craig Calhoun,3.4,Sociology,3.0
+Wendy Bednarz,3.9,Film,2.7
+Jindrich Zezula,4.3,French,1.5
+Aaron Hipscher,3.9,Accounting,4.0
+Greg D'Amico,3.5,Communication,2.0
+Maurice Miller,2.4,Communication,1.7
+William Klein,3.0,Medicine,2.1
+Jane Laforge,3.7,English,3.0
+Gabriel Moran,3.6,Education,1.7
+Stefano Albertini,4.6,Italian,2.5
+Bryan Waterman,4.8,English,3.1
+Chris Kelly,4.2,Film,2.1
+Carol Martin,2.7,Film,3.0
+Eunha Choi,4.5,Languages,3.0
+Sheldon Woodbury,5.0,Film,2.0
+John Sexton,4.6,Law,3.6
+Robert Richardson,2.3,Physics,4.6
+B.C. Roberts,1.5,Writing,4.5
+Jeffrey Jenkins,3.1,Theater,2.7
+Smita Tripathi,4.4,Languages,2.3
+Gina Canterucci,3.1,Education,4.1
+Julia Keefer,4.5,Film,2.8
+Alan Corns,2.8,Economics,4.5
+Hasia Diner,3.8,Social Science,3.2
+Steve Hutkins,4.5,Interdisciplinary Studies,2.0
+Tyler Volk,3.5,Science,3.0
+Pádraig Cearúil,4.5,Ethnic Studies,2.7
+Barbara Heyns,2.9,Social Science,2.6
+Joel Spencer,3.7,Computer Science,3.2
+Phillip Kain,4.3,English,3.6
+Richard Borowsky,2.6,Biology,3.5
+Meretzky Mark,3.5,Computer Science,2.7
+Susanna Horng,3.3,Writing,3.5
+Robert Diyanni,4.7,Cultural Studies,2.3
+Arlene Davila,3.2,Hispanic Studies,2.4
+Steve Blader,4.7,Business,3.0
+William Serrin,3.8,Journalism,3.5
+Ward Regan,3.8,Philosophy,2.7
+Harvey Molotch,3.7,Social Science,2.7
+Robert Chazan,4.4,Hebrew,2.5
+Stephen Cohen,3.6,History,3.1
+Connie Hayman,0.0,Journalism,0.0
+Manos Pantelidis,4.2,Communication,1.9
+Henry Em,3.4,Asian Studies,3.1
+Joan Welkowitz,5.0,Psychology,2.0
+Stephen Brown,4.8,Business,2.5
+Rebecca Packer,4.3,English,2.2
+Gordon Farrell,4.7,Theater,2.6
+Elizabeth Phelps,4.2,Psychology,2.8
+Arnie Baskin,3.9,Film,1.9
+Nikhil Singh,4.0,History,2.9
+Peter Chelkowski,3.0,Theology,1.9
+Rolf Wolfswinkel,3.0,Humanities,3.6
+David Greenberg,2.2,Sociology,3.2
+Paul Fleming,4.7,Languages,2.6
+Antonio Rutigliano,4.4,History,2.1
+Martin Harries,3.8,Theater,3.1
+Grant Wenaus,4.1,Music,3.8
+Anya Saffir,4.6,Theater,3.3
+Rodolfo Aiello,2.3,Languages,3.7
+Bill Phillips,4.0,Communication,2.1
+Keith Vincent,4.2,Literature,2.6
+Charles Wilson,3.3,Economics,4.1
+Gordon Pradl,4.5,English,2.6
+Mahnaz Yousefzadeh,2.3,Humanities,3.1
+Walter Alvarez,3.6,Social Science,1.8
+Bill Wesbrooks,4.4,Music,3.0
+John Leahy,3.9,Economics,3.7
+Neville Kallenbach,3.7,Chemistry,3.3
+Barry Rugg,3.3,Chemistry,2.6
+Gabriel Miller,4.4,Chemistry,1.7
+Tom Drysdale,3.6,Photography,2.3
+Joanne Savio,4.4,Film,3.3
+Charles Potter,4.5,Film,3.2
+Ted Coons,3.0,Psychology,3.3
+Edmond Schonberg,4.0,Computer Science,3.5
+Don White,4.8,History,2.1
+Scott Hightower,4.2,English,2.1
+Mary Carpenter,4.5,Communication,2.2
+Heidi Fuld,4.3,Education,3.0
+Bertell Ollman,2.3,Political Science,2.0
+Ted Magder,3.8,Communication,2.9
+Rachelle Sussman,4.1,Communication,2.9
+Elliot Wolfson,3.4,Theology,3.8
+Fred Greenleaf,3.2,Mathematics,3.6
+Qiuxia Shao,4.7,East Asian Studies,3.3
+Robert Wallace,2.6,Science,3.3
+John Richardson,4.4,Philosophy,3.0
+Ned Block,4.3,Philosophy,3.2
+Paul Glimcher,4.7,Science,3.6
+Rena Mueller,3.0,Music,3.4
+Tommy Lee,3.8,Biology,3.3
+Jose Vazquez,4.7,Not Specified,1.5
+Frederic Lerner,2.7,Accounting,3.2
+Craig Calhoun,3.4,Sociology,3.0
+Wendy Bednarz,3.9,Film,2.7
+Jindrich Zezula,4.3,French,1.5
+Aaron Hipscher,3.9,Accounting,4.0
+Greg D'Amico,3.5,Communication,2.0
+Maurice Miller,2.4,Communication,1.7
+William Klein,3.0,Medicine,2.1
+Jane Laforge,3.7,English,3.0
+Gabriel Moran,3.6,Education,1.7
+Stefano Albertini,4.6,Italian,2.5
+Bryan Waterman,4.8,English,3.1
+Chris Kelly,4.2,Film,2.1
+Carol Martin,2.7,Film,3.0
+Eunha Choi,4.5,Languages,3.0
+Sheldon Woodbury,5.0,Film,2.0
+John Sexton,4.6,Law,3.6
+Robert Richardson,2.3,Physics,4.6
+B.C. Roberts,1.5,Writing,4.5
+Jeffrey Jenkins,3.1,Theater,2.7
+Smita Tripathi,4.4,Languages,2.3
+Gina Canterucci,3.1,Education,4.1
+William Wolf,3.8,Film,1.4
+Nuar Alsadir,4.2,Writing,2.7
+Linda Almeida,3.7,English,3.4
+John Singler,4.5,Linguistics,2.5
+Tom Igoe,3.2,Fine Arts,3.4
+Tom Meyvis,4.3,Marketing,2.6
+Amitav Chakravarti,4.3,Marketing,2.6
+Catherine Fitterman-Radbill,1.8,Music,2.8
+Julia Keefer,4.5,Film,2.8
+Alan Corns,2.8,Economics,4.5
+Hasia Diner,3.8,Social Science,3.2
+Steve Hutkins,4.5,Interdisciplinary Studies,2.0
+Tyler Volk,3.5,Science,3.0
+Pádraig Cearúil,4.5,Ethnic Studies,2.7
+Barbara Heyns,2.9,Social Science,2.6
+Joel Spencer,3.7,Computer Science,3.2
+Phillip Kain,4.3,English,3.6
+Richard Borowsky,2.6,Biology,3.5
+Meretzky Mark,3.5,Computer Science,2.7
+Susanna Horng,3.3,Writing,3.5
+Robert Diyanni,4.7,Cultural Studies,2.3
+Arlene Davila,3.2,Hispanic Studies,2.4
+Steve Blader,4.7,Business,3.0
+William Serrin,3.8,Journalism,3.5
+Ward Regan,3.8,Philosophy,2.7
+Harvey Molotch,3.7,Social Science,2.7
+Robert Chazan,4.4,Hebrew,2.5
+Stephen Cohen,3.6,History,3.1
+Connie Hayman,0.0,Journalism,0.0
+Manos Pantelidis,4.2,Communication,1.9
+Henry Em,3.4,Asian Studies,3.1
+Joan Welkowitz,5.0,Psychology,2.0
+Stephen Brown,4.8,Business,2.5
+Rebecca Packer,4.3,English,2.2
+Gordon Farrell,4.7,Theater,2.6
+Elizabeth Phelps,4.2,Psychology,2.8
+Arnie Baskin,3.9,Film,1.9
+Nikhil Singh,4.0,History,2.9
+Peter Chelkowski,3.0,Theology,1.9
+Rolf Wolfswinkel,3.0,Humanities,3.6
+David Greenberg,2.2,Sociology,3.2
+Paul Fleming,4.7,Languages,2.6
+Antonio Rutigliano,4.4,History,2.1
+Martin Harries,3.8,Theater,3.1
+Grant Wenaus,4.1,Music,3.8
+Anya Saffir,4.6,Theater,3.3
+Rodolfo Aiello,2.3,Languages,3.7
+Bill Phillips,4.0,Communication,2.1
+Keith Vincent,4.2,Literature,2.6
+Charles Wilson,3.3,Economics,4.1
+Gordon Pradl,4.5,English,2.6
+Mahnaz Yousefzadeh,2.3,Humanities,3.1
+Walter Alvarez,3.6,Social Science,1.8
+Bill Wesbrooks,4.4,Music,3.0
+John Leahy,3.9,Economics,3.7
+Neville Kallenbach,3.7,Chemistry,3.3
+Barry Rugg,3.3,Chemistry,2.6
+Gabriel Miller,4.4,Chemistry,1.7
+Tom Drysdale,3.6,Photography,2.3
+Joanne Savio,4.4,Film,3.3
+Charles Potter,4.5,Film,3.2
+Ted Coons,3.0,Psychology,3.3
+Edmond Schonberg,4.0,Computer Science,3.5
+Don White,4.8,History,2.1
+Scott Hightower,4.2,English,2.1
+Mary Carpenter,4.5,Communication,2.2
+Heidi Fuld,4.3,Education,3.0
+Bertell Ollman,2.3,Political Science,2.0
+Ted Magder,3.8,Communication,2.9
+Rachelle Sussman,4.1,Communication,2.9
+Elliot Wolfson,3.4,Theology,3.8
+Fred Greenleaf,3.2,Mathematics,3.6
+Qiuxia Shao,4.7,East Asian Studies,3.3
+Robert Wallace,2.6,Science,3.3
+John Richardson,4.4,Philosophy,3.0
+Ned Block,4.3,Philosophy,3.2
+Paul Glimcher,4.7,Science,3.6
+Rena Mueller,3.0,Music,3.4
+Tommy Lee,3.8,Biology,3.3
+Jose Vazquez,4.7,Not Specified,1.5
+Frederic Lerner,2.7,Accounting,3.2
+Craig Calhoun,3.4,Sociology,3.0
+Wendy Bednarz,3.9,Film,2.7
+Jindrich Zezula,4.3,French,1.5
+Aaron Hipscher,3.9,Accounting,4.0
+Greg D'Amico,3.5,Communication,2.0
+Maurice Miller,2.4,Communication,1.7
+William Klein,3.0,Medicine,2.1
+Jane Laforge,3.7,English,3.0
+Gabriel Moran,3.6,Education,1.7
+Stefano Albertini,4.6,Italian,2.5
+Bryan Waterman,4.8,English,3.1
+Chris Kelly,4.2,Film,2.1
+Carol Martin,2.7,Film,3.0
+Eunha Choi,4.5,Languages,3.0
+Sheldon Woodbury,5.0,Film,2.0
+John Sexton,4.6,Law,3.6
+Robert Richardson,2.3,Physics,4.6
+B.C. Roberts,1.5,Writing,4.5
+Jeffrey Jenkins,3.1,Theater,2.7
+Smita Tripathi,4.4,Languages,2.3
+Gina Canterucci,3.1,Education,4.1
+William Wolf,3.8,Film,1.4
+Nuar Alsadir,4.2,Writing,2.7
+Linda Almeida,3.7,English,3.4
+John Singler,4.5,Linguistics,2.5
+Tom Igoe,3.2,Fine Arts,3.4
+Tom Meyvis,4.3,Marketing,2.6
+Amitav Chakravarti,4.3,Marketing,2.6
+Catherine Fitterman-Radbill,1.8,Music,2.8
+Nick Tanis,4.4,Film,2.5
+John Gurrin,4.4,Film,1.7
+Bridget O'Connor,2.8,Education,2.7
+Albert Novikoff,2.3,Mathematics,2.9
+Morten Parker,4.9,Film,2.0
+Celia Stewart,1.3,Communication,3.7
+James Colaiaco,4.0,Philosophy,2.9
+Gail Linsenbard,3.3,Philosophy,3.3
+Julia Keefer,4.5,Film,2.8
+Alan Corns,2.8,Economics,4.5
+Hasia Diner,3.8,Social Science,3.2
+Steve Hutkins,4.5,Interdisciplinary Studies,2.0
+Tyler Volk,3.5,Science,3.0
+Pádraig Cearúil,4.5,Ethnic Studies,2.7
+Barbara Heyns,2.9,Social Science,2.6
+Joel Spencer,3.7,Computer Science,3.2
+Phillip Kain,4.3,English,3.6
+Richard Borowsky,2.6,Biology,3.5
+Meretzky Mark,3.5,Computer Science,2.7
+Susanna Horng,3.3,Writing,3.5
+Robert Diyanni,4.7,Cultural Studies,2.3
+Arlene Davila,3.2,Hispanic Studies,2.4
+Steve Blader,4.7,Business,3.0
+William Serrin,3.8,Journalism,3.5
+Ward Regan,3.8,Philosophy,2.7
+Harvey Molotch,3.7,Social Science,2.7
+Robert Chazan,4.4,Hebrew,2.5
+Stephen Cohen,3.6,History,3.1
+Connie Hayman,0.0,Journalism,0.0
+Manos Pantelidis,4.2,Communication,1.9
+Henry Em,3.4,Asian Studies,3.1
+Joan Welkowitz,5.0,Psychology,2.0
+Stephen Brown,4.8,Business,2.5
+Rebecca Packer,4.3,English,2.2
+Gordon Farrell,4.7,Theater,2.6
+Elizabeth Phelps,4.2,Psychology,2.8
+Arnie Baskin,3.9,Film,1.9
+Nikhil Singh,4.0,History,2.9
+Peter Chelkowski,3.0,Theology,1.9
+Rolf Wolfswinkel,3.0,Humanities,3.6
+David Greenberg,2.2,Sociology,3.2
+Paul Fleming,4.7,Languages,2.6
+Antonio Rutigliano,4.4,History,2.1
+Martin Harries,3.8,Theater,3.1
+Grant Wenaus,4.1,Music,3.8
+Anya Saffir,4.6,Theater,3.3
+Rodolfo Aiello,2.3,Languages,3.7
+Bill Phillips,4.0,Communication,2.1
+Keith Vincent,4.2,Literature,2.6
+Charles Wilson,3.3,Economics,4.1
+Gordon Pradl,4.5,English,2.6
+Mahnaz Yousefzadeh,2.3,Humanities,3.1
+Walter Alvarez,3.6,Social Science,1.8
+Bill Wesbrooks,4.4,Music,3.0
+John Leahy,3.9,Economics,3.7
+Neville Kallenbach,3.7,Chemistry,3.3
+Barry Rugg,3.3,Chemistry,2.6
+Gabriel Miller,4.4,Chemistry,1.7
+Tom Drysdale,3.6,Photography,2.3
+Joanne Savio,4.4,Film,3.3
+Charles Potter,4.5,Film,3.2
+Ted Coons,3.0,Psychology,3.3
+Edmond Schonberg,4.0,Computer Science,3.5
+Don White,4.8,History,2.1
+Scott Hightower,4.2,English,2.1
+Mary Carpenter,4.5,Communication,2.2
+Heidi Fuld,4.3,Education,3.0
+Bertell Ollman,2.3,Political Science,2.0
+Ted Magder,3.8,Communication,2.9
+Rachelle Sussman,4.1,Communication,2.9
+Elliot Wolfson,3.4,Theology,3.8
+Fred Greenleaf,3.2,Mathematics,3.6
+Qiuxia Shao,4.7,East Asian Studies,3.3
+Robert Wallace,2.6,Science,3.3
+John Richardson,4.4,Philosophy,3.0
+Ned Block,4.3,Philosophy,3.2
+Paul Glimcher,4.7,Science,3.6
+Rena Mueller,3.0,Music,3.4
+Tommy Lee,3.8,Biology,3.3
+Jose Vazquez,4.7,Not Specified,1.5
+Frederic Lerner,2.7,Accounting,3.2
+Craig Calhoun,3.4,Sociology,3.0
+Wendy Bednarz,3.9,Film,2.7
+Jindrich Zezula,4.3,French,1.5
+Aaron Hipscher,3.9,Accounting,4.0
+Greg D'Amico,3.5,Communication,2.0
+Maurice Miller,2.4,Communication,1.7
+William Klein,3.0,Medicine,2.1
+Jane Laforge,3.7,English,3.0
+Gabriel Moran,3.6,Education,1.7
+Stefano Albertini,4.6,Italian,2.5
+Bryan Waterman,4.8,English,3.1
+Chris Kelly,4.2,Film,2.1
+Carol Martin,2.7,Film,3.0
+Eunha Choi,4.5,Languages,3.0
+Sheldon Woodbury,5.0,Film,2.0
+John Sexton,4.6,Law,3.6
+Robert Richardson,2.3,Physics,4.6
+B.C. Roberts,1.5,Writing,4.5
+Jeffrey Jenkins,3.1,Theater,2.7
+Smita Tripathi,4.4,Languages,2.3
+Gina Canterucci,3.1,Education,4.1
+William Wolf,3.8,Film,1.4
+Nuar Alsadir,4.2,Writing,2.7
+Linda Almeida,3.7,English,3.4
+John Singler,4.5,Linguistics,2.5
+Tom Igoe,3.2,Fine Arts,3.4
+Tom Meyvis,4.3,Marketing,2.6
+Amitav Chakravarti,4.3,Marketing,2.6
+Catherine Fitterman-Radbill,1.8,Music,2.8
+Nick Tanis,4.4,Film,2.5
+John Gurrin,4.4,Film,1.7
+Bridget O'Connor,2.8,Education,2.7
+Albert Novikoff,2.3,Mathematics,2.9
+Morten Parker,4.9,Film,2.0
+Celia Stewart,1.3,Communication,3.7
+James Colaiaco,4.0,Philosophy,2.9
+Gail Linsenbard,3.3,Philosophy,3.3
+Ray Dougherty,2.4,Linguistics,2.8
+Harry Kitsikopoulos,3.4,Economics,3.1
+Julia Keefer,4.5,Film,2.8
+Alan Corns,2.8,Economics,4.5
+Hasia Diner,3.8,Social Science,3.2
+Steve Hutkins,4.5,Interdisciplinary Studies,2.0
+Tyler Volk,3.5,Science,3.0
+Pádraig Cearúil,4.5,Ethnic Studies,2.7
+Barbara Heyns,2.9,Social Science,2.6
+Joel Spencer,3.7,Computer Science,3.2
+Phillip Kain,4.3,English,3.6
+Richard Borowsky,2.6,Biology,3.5
+Meretzky Mark,3.5,Computer Science,2.7
+Susanna Horng,3.3,Writing,3.5
+Robert Diyanni,4.7,Cultural Studies,2.3
+Arlene Davila,3.2,Hispanic Studies,2.4
+Steve Blader,4.7,Business,3.0
+William Serrin,3.8,Journalism,3.5
+Ward Regan,3.8,Philosophy,2.7
+Harvey Molotch,3.7,Social Science,2.7
+Robert Chazan,4.4,Hebrew,2.5
+Stephen Cohen,3.6,History,3.1
+Connie Hayman,0.0,Journalism,0.0
+Manos Pantelidis,4.2,Communication,1.9
+Henry Em,3.4,Asian Studies,3.1
+Joan Welkowitz,5.0,Psychology,2.0
+Stephen Brown,4.8,Business,2.5
+Rebecca Packer,4.3,English,2.2
+Gordon Farrell,4.7,Theater,2.6
+Elizabeth Phelps,4.2,Psychology,2.8
+Arnie Baskin,3.9,Film,1.9
+Nikhil Singh,4.0,History,2.9
+Peter Chelkowski,3.0,Theology,1.9
+Rolf Wolfswinkel,3.0,Humanities,3.6
+David Greenberg,2.2,Sociology,3.2
+Paul Fleming,4.7,Languages,2.6
+Antonio Rutigliano,4.4,History,2.1
+Martin Harries,3.8,Theater,3.1
+Grant Wenaus,4.1,Music,3.8
+Anya Saffir,4.6,Theater,3.3
+Rodolfo Aiello,2.3,Languages,3.7
+Bill Phillips,4.0,Communication,2.1
+Keith Vincent,4.2,Literature,2.6
+Charles Wilson,3.3,Economics,4.1
+Gordon Pradl,4.5,English,2.6
+Mahnaz Yousefzadeh,2.3,Humanities,3.1
+Walter Alvarez,3.6,Social Science,1.8
+Bill Wesbrooks,4.4,Music,3.0
+John Leahy,3.9,Economics,3.7
+Neville Kallenbach,3.7,Chemistry,3.3
+Barry Rugg,3.3,Chemistry,2.6
+Gabriel Miller,4.4,Chemistry,1.7
+Tom Drysdale,3.6,Photography,2.3
+Joanne Savio,4.4,Film,3.3
+Charles Potter,4.5,Film,3.2
+Ted Coons,3.0,Psychology,3.3
+Edmond Schonberg,4.0,Computer Science,3.5
+Don White,4.8,History,2.1
+Scott Hightower,4.2,English,2.1
+Mary Carpenter,4.5,Communication,2.2
+Heidi Fuld,4.3,Education,3.0
+Bertell Ollman,2.3,Political Science,2.0
+Ted Magder,3.8,Communication,2.9
+Rachelle Sussman,4.1,Communication,2.9
+Elliot Wolfson,3.4,Theology,3.8
+Fred Greenleaf,3.2,Mathematics,3.6
+Qiuxia Shao,4.7,East Asian Studies,3.3
+Robert Wallace,2.6,Science,3.3
+John Richardson,4.4,Philosophy,3.0
+Ned Block,4.3,Philosophy,3.2
+Paul Glimcher,4.7,Science,3.6
+Rena Mueller,3.0,Music,3.4
+Tommy Lee,3.8,Biology,3.3
+Jose Vazquez,4.7,Not Specified,1.5
+Frederic Lerner,2.7,Accounting,3.2
+Craig Calhoun,3.4,Sociology,3.0
+Wendy Bednarz,3.9,Film,2.7
+Jindrich Zezula,4.3,French,1.5
+Aaron Hipscher,3.9,Accounting,4.0
+Greg D'Amico,3.5,Communication,2.0
+Maurice Miller,2.4,Communication,1.7
+William Klein,3.0,Medicine,2.1
+Jane Laforge,3.7,English,3.0
+Gabriel Moran,3.6,Education,1.7
+Stefano Albertini,4.6,Italian,2.5
+Bryan Waterman,4.8,English,3.1
+Chris Kelly,4.2,Film,2.1
+Carol Martin,2.7,Film,3.0
+Eunha Choi,4.5,Languages,3.0
+Sheldon Woodbury,5.0,Film,2.0
+John Sexton,4.6,Law,3.6
+Robert Richardson,2.3,Physics,4.6
+B.C. Roberts,1.5,Writing,4.5
+Jeffrey Jenkins,3.1,Theater,2.7
+Smita Tripathi,4.4,Languages,2.3
+Gina Canterucci,3.1,Education,4.1
+William Wolf,3.8,Film,1.4
+Nuar Alsadir,4.2,Writing,2.7
+Linda Almeida,3.7,English,3.4
+John Singler,4.5,Linguistics,2.5
+Tom Igoe,3.2,Fine Arts,3.4
+Tom Meyvis,4.3,Marketing,2.6
+Amitav Chakravarti,4.3,Marketing,2.6
+Catherine Fitterman-Radbill,1.8,Music,2.8
+Nick Tanis,4.4,Film,2.5
+John Gurrin,4.4,Film,1.7
+Bridget O'Connor,2.8,Education,2.7
+Albert Novikoff,2.3,Mathematics,2.9
+Morten Parker,4.9,Film,2.0
+Celia Stewart,1.3,Communication,3.7
+James Colaiaco,4.0,Philosophy,2.9
+Gail Linsenbard,3.3,Philosophy,3.3
+Ray Dougherty,2.4,Linguistics,2.8
+Harry Kitsikopoulos,3.4,Economics,3.1
+David Sider,4.8,Classics,3.8
+Sibel Erol,4.6,Languages,2.5
+Mitchell Langbert,2.3,Business,1.7
+Gary Holden,3.3,Social Work,4.1
+Marion Kaplan,3.4,History,4.1
+Nader Masmoudi,3.0,Mathematics,3.5
+Sharon Badal,4.8,Film,2.7
+Bella Mirabella,4.0,Fine Arts,3.1
+Julia Keefer,4.5,Film,2.8
+Alan Corns,2.8,Economics,4.5
+Hasia Diner,3.8,Social Science,3.2
+Steve Hutkins,4.5,Interdisciplinary Studies,2.0
+Tyler Volk,3.5,Science,3.0
+Pádraig Cearúil,4.5,Ethnic Studies,2.7
+Barbara Heyns,2.9,Social Science,2.6
+Joel Spencer,3.7,Computer Science,3.2
+Phillip Kain,4.3,English,3.6
+Richard Borowsky,2.6,Biology,3.5
+Meretzky Mark,3.5,Computer Science,2.7
+Susanna Horng,3.3,Writing,3.5
+Robert Diyanni,4.7,Cultural Studies,2.3
+Arlene Davila,3.2,Hispanic Studies,2.4
+Steve Blader,4.7,Business,3.0
+William Serrin,3.8,Journalism,3.5
+Ward Regan,3.8,Philosophy,2.7
+Harvey Molotch,3.7,Social Science,2.7
+Robert Chazan,4.4,Hebrew,2.5
+Stephen Cohen,3.6,History,3.1
+Connie Hayman,0.0,Journalism,0.0
+Manos Pantelidis,4.2,Communication,1.9
+Henry Em,3.4,Asian Studies,3.1
+Joan Welkowitz,5.0,Psychology,2.0
+Stephen Brown,4.8,Business,2.5
+Rebecca Packer,4.3,English,2.2
+Gordon Farrell,4.7,Theater,2.6
+Elizabeth Phelps,4.2,Psychology,2.8
+Arnie Baskin,3.9,Film,1.9
+Nikhil Singh,4.0,History,2.9
+Peter Chelkowski,3.0,Theology,1.9
+Rolf Wolfswinkel,3.0,Humanities,3.6
+David Greenberg,2.2,Sociology,3.2
+Paul Fleming,4.7,Languages,2.6
+Antonio Rutigliano,4.4,History,2.1
+Martin Harries,3.8,Theater,3.1
+Grant Wenaus,4.1,Music,3.8
+Anya Saffir,4.6,Theater,3.3
+Rodolfo Aiello,2.3,Languages,3.7
+Bill Phillips,4.0,Communication,2.1
+Keith Vincent,4.2,Literature,2.6
+Charles Wilson,3.3,Economics,4.1
+Gordon Pradl,4.5,English,2.6
+Mahnaz Yousefzadeh,2.3,Humanities,3.1
+Walter Alvarez,3.6,Social Science,1.8
+Bill Wesbrooks,4.4,Music,3.0
+John Leahy,3.9,Economics,3.7
+Neville Kallenbach,3.7,Chemistry,3.3
+Barry Rugg,3.3,Chemistry,2.6
+Gabriel Miller,4.4,Chemistry,1.7
+Tom Drysdale,3.6,Photography,2.3
+Joanne Savio,4.4,Film,3.3
+Charles Potter,4.5,Film,3.2
+Ted Coons,3.0,Psychology,3.3
+Edmond Schonberg,4.0,Computer Science,3.5
+Don White,4.8,History,2.1
+Scott Hightower,4.2,English,2.1
+Mary Carpenter,4.5,Communication,2.2
+Heidi Fuld,4.3,Education,3.0
+Bertell Ollman,2.3,Political Science,2.0
+Ted Magder,3.8,Communication,2.9
+Rachelle Sussman,4.1,Communication,2.9
+Elliot Wolfson,3.4,Theology,3.8
+Fred Greenleaf,3.2,Mathematics,3.6
+Qiuxia Shao,4.7,East Asian Studies,3.3
+Robert Wallace,2.6,Science,3.3
+John Richardson,4.4,Philosophy,3.0
+Ned Block,4.3,Philosophy,3.2
+Paul Glimcher,4.7,Science,3.6
+Rena Mueller,3.0,Music,3.4
+Tommy Lee,3.8,Biology,3.3
+Jose Vazquez,4.7,Not Specified,1.5
+Frederic Lerner,2.7,Accounting,3.2
+Craig Calhoun,3.4,Sociology,3.0
+Wendy Bednarz,3.9,Film,2.7
+Jindrich Zezula,4.3,French,1.5
+Aaron Hipscher,3.9,Accounting,4.0
+Greg D'Amico,3.5,Communication,2.0
+Maurice Miller,2.4,Communication,1.7
+William Klein,3.0,Medicine,2.1
+Jane Laforge,3.7,English,3.0
+Gabriel Moran,3.6,Education,1.7
+Stefano Albertini,4.6,Italian,2.5
+Bryan Waterman,4.8,English,3.1
+Chris Kelly,4.2,Film,2.1
+Carol Martin,2.7,Film,3.0
+Eunha Choi,4.5,Languages,3.0
+Sheldon Woodbury,5.0,Film,2.0
+John Sexton,4.6,Law,3.6
+Robert Richardson,2.3,Physics,4.6
+B.C. Roberts,1.5,Writing,4.5
+Jeffrey Jenkins,3.1,Theater,2.7
+Smita Tripathi,4.4,Languages,2.3
+Gina Canterucci,3.1,Education,4.1
+William Wolf,3.8,Film,1.4
+Nuar Alsadir,4.2,Writing,2.7
+Linda Almeida,3.7,English,3.4
+John Singler,4.5,Linguistics,2.5
+Tom Igoe,3.2,Fine Arts,3.4
+Tom Meyvis,4.3,Marketing,2.6
+Amitav Chakravarti,4.3,Marketing,2.6
+Catherine Fitterman-Radbill,1.8,Music,2.8
+Nick Tanis,4.4,Film,2.5
+John Gurrin,4.4,Film,1.7
+Bridget O'Connor,2.8,Education,2.7
+Albert Novikoff,2.3,Mathematics,2.9
+Morten Parker,4.9,Film,2.0
+Celia Stewart,1.3,Communication,3.7
+James Colaiaco,4.0,Philosophy,2.9
+Gail Linsenbard,3.3,Philosophy,3.3
+Ray Dougherty,2.4,Linguistics,2.8
+Harry Kitsikopoulos,3.4,Economics,3.1
+David Sider,4.8,Classics,3.8
+Sibel Erol,4.6,Languages,2.5
+Mitchell Langbert,2.3,Business,1.7
+Gary Holden,3.3,Social Work,4.1
+Marion Kaplan,3.4,History,4.1
+Nader Masmoudi,3.0,Mathematics,3.5
+Sharon Badal,4.8,Film,2.7
+Bella Mirabella,4.0,Fine Arts,3.1
+Sheril Antonio,3.5,Film,2.1
+Sam Pollard,3.6,Film & Television,2.6
+Laura Levine,4.1,Theater,3.7
+Robert Gurland,4.0,Philosophy,2.0
+Diego Comin,4.9,Economics,2.8
+Efe A. Ok,2.6,Economics,4.4
+Boyan Jovanovic,3.3,Economics,3.1
+Jean-Pierre Benoit,4.5,Economics,3.3
