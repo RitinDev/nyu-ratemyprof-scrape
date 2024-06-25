@@ -1,0 +1,1633 @@
+[
+    {
+        "Name": "Aiwa Shirako",
+        "Average Rating": 4.8,
+        "Department": "Management",
+        "Difficulty Rating": 2.6,
+        "Number of Ratings": 11
+    },
+    {
+        "Name": "Ajay Maindiratta",
+        "Average Rating": 3.6,
+        "Department": "Accounting",
+        "Difficulty Rating": 3.6,
+        "Number of Ratings": 22
+    },
+    {
+        "Name": "Ernest Kurnow",
+        "Average Rating": 4.8,
+        "Department": "Not Specified",
+        "Difficulty Rating": 2.2,
+        "Number of Ratings": 6
+    },
+    {
+        "Name": "David Backus",
+        "Average Rating": 3.0,
+        "Department": "Business",
+        "Difficulty Rating": 4.5,
+        "Number of Ratings": 2
+    },
+    {
+        "Name": "Barbara Katz",
+        "Average Rating": 3.2,
+        "Department": "Economics",
+        "Difficulty Rating": 3.1,
+        "Number of Ratings": 7
+    },
+    {
+        "Name": "Junpei Komiyama",
+        "Average Rating": 3.6,
+        "Department": "Information Science",
+        "Difficulty Rating": 3.1,
+        "Number of Ratings": 14
+    },
+    {
+        "Name": "Sam Hui",
+        "Average Rating": 5.0,
+        "Department": "Marketing",
+        "Difficulty Rating": 2.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Skreta Vasilik",
+        "Average Rating": 3.0,
+        "Department": "Economics",
+        "Difficulty Rating": 4.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Andre de Souza",
+        "Average Rating": 4.5,
+        "Department": "Finance",
+        "Difficulty Rating": 2.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Yair Berson",
+        "Average Rating": 4.3,
+        "Department": "Finance",
+        "Difficulty Rating": 2.0,
+        "Number of Ratings": 3
+    },
+    {
+        "Name": "Amir Malin",
+        "Average Rating": 2.6,
+        "Department": "Marketing",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 6
+    },
+    {
+        "Name": "Paul Wachtel",
+        "Average Rating": 3.4,
+        "Department": "Economics",
+        "Difficulty Rating": 2.8,
+        "Number of Ratings": 16
+    },
+    {
+        "Name": "Orly Sade",
+        "Average Rating": 4.0,
+        "Department": "Finance",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 6
+    },
+    {
+        "Name": "Juan Dubra",
+        "Average Rating": 2.5,
+        "Department": "Economics",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 6
+    },
+    {
+        "Name": "Vasant Dhar",
+        "Average Rating": 1.0,
+        "Department": "Business",
+        "Difficulty Rating": 4.9,
+        "Number of Ratings": 4
+    },
+    {
+        "Name": "Michael Pollack",
+        "Average Rating": 4.2,
+        "Department": "Law",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 3
+    },
+    {
+        "Name": "Michael Lustig",
+        "Average Rating": 5.0,
+        "Department": "Business",
+        "Difficulty Rating": 4.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Aviad Pe'er",
+        "Average Rating": 5.0,
+        "Department": "Management",
+        "Difficulty Rating": 4.1,
+        "Number of Ratings": 35
+    },
+    {
+        "Name": "Jay Rubin",
+        "Average Rating": 4.1,
+        "Department": "Communication",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 13
+    },
+    {
+        "Name": "Anthony Marciano",
+        "Average Rating": 4.9,
+        "Department": "Finance",
+        "Difficulty Rating": 3.4,
+        "Number of Ratings": 14
+    },
+    {
+        "Name": "Kathleen DeRose",
+        "Average Rating": 2.4,
+        "Department": "Business",
+        "Difficulty Rating": 4.6,
+        "Number of Ratings": 14
+    },
+    {
+        "Name": "Kenneth Krushel",
+        "Average Rating": 5.0,
+        "Department": "Business",
+        "Difficulty Rating": 3.6,
+        "Number of Ratings": 33
+    },
+    {
+        "Name": "Yoel Beniluz",
+        "Average Rating": 5.0,
+        "Department": "Accounting",
+        "Difficulty Rating": 4.3,
+        "Number of Ratings": 32
+    },
+    {
+        "Name": "Bernard Donefer",
+        "Average Rating": 2.4,
+        "Department": "Information Science",
+        "Difficulty Rating": 4.1,
+        "Number of Ratings": 7
+    },
+    {
+        "Name": "Stanley Zin",
+        "Average Rating": 1.3,
+        "Department": "Economics",
+        "Difficulty Rating": 4.0,
+        "Number of Ratings": 2
+    },
+    {
+        "Name": "Joyee Deb",
+        "Average Rating": 3.0,
+        "Department": "Economics",
+        "Difficulty Rating": 3.8,
+        "Number of Ratings": 4
+    },
+    {
+        "Name": "Ashli Carter",
+        "Average Rating": 5.0,
+        "Department": "Management",
+        "Difficulty Rating": 4.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Olivier Wang",
+        "Average Rating": 4.9,
+        "Department": "Finance",
+        "Difficulty Rating": 3.6,
+        "Number of Ratings": 4
+    },
+    {
+        "Name": "Gary  Podorowsky",
+        "Average Rating": 5.0,
+        "Department": "Business",
+        "Difficulty Rating": 1.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Sonia Marciano",
+        "Average Rating": 5.0,
+        "Department": "Business",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 36
+    },
+    {
+        "Name": "Pricila Maziero",
+        "Average Rating": 3.0,
+        "Department": "Economics",
+        "Difficulty Rating": 4.3,
+        "Number of Ratings": 26
+    },
+    {
+        "Name": "Michael Pinedo",
+        "Average Rating": 4.5,
+        "Department": "Information Science",
+        "Difficulty Rating": 3.8,
+        "Number of Ratings": 28
+    },
+    {
+        "Name": "Aswath Damodaran",
+        "Average Rating": 3.1,
+        "Department": "Finance",
+        "Difficulty Rating": 3.4,
+        "Number of Ratings": 15
+    },
+    {
+        "Name": "James Finch",
+        "Average Rating": 3.0,
+        "Department": "Finance",
+        "Difficulty Rating": 4.1,
+        "Number of Ratings": 12
+    },
+    {
+        "Name": "Oghene Oyiborhoro",
+        "Average Rating": 4.3,
+        "Department": "Communication",
+        "Difficulty Rating": 3.5,
+        "Number of Ratings": 6
+    },
+    {
+        "Name": "Abdoulaye Ndiaye",
+        "Average Rating": 3.0,
+        "Department": "Economics",
+        "Difficulty Rating": 3.4,
+        "Number of Ratings": 26
+    },
+    {
+        "Name": "Stephen Harder",
+        "Average Rating": 5.0,
+        "Department": "Law",
+        "Difficulty Rating": 3.7,
+        "Number of Ratings": 45
+    },
+    {
+        "Name": ". Hipscher",
+        "Average Rating": 4.5,
+        "Department": "Accounting",
+        "Difficulty Rating": 2.7,
+        "Number of Ratings": 3
+    },
+    {
+        "Name": "Guan Yang",
+        "Average Rating": 1.0,
+        "Department": "Finance",
+        "Difficulty Rating": 5.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Igor Vaysman",
+        "Average Rating": 5.0,
+        "Department": "Accounting",
+        "Difficulty Rating": 2.0,
+        "Number of Ratings": 2
+    },
+    {
+        "Name": "Bruce Buchanan",
+        "Average Rating": 3.7,
+        "Department": "Law",
+        "Difficulty Rating": 3.8,
+        "Number of Ratings": 5
+    },
+    {
+        "Name": "Venkataramani Srivatsan",
+        "Average Rating": 4.3,
+        "Department": "Economics",
+        "Difficulty Rating": 2.7,
+        "Number of Ratings": 6
+    },
+    {
+        "Name": "Mor Armony",
+        "Average Rating": 2.9,
+        "Department": "Information Science",
+        "Difficulty Rating": 3.8,
+        "Number of Ratings": 4
+    },
+    {
+        "Name": "Aline Wolff",
+        "Average Rating": 4.5,
+        "Department": "Communication",
+        "Difficulty Rating": 1.5,
+        "Number of Ratings": 6
+    },
+    {
+        "Name": "Petra Moser",
+        "Average Rating": 2.4,
+        "Department": "Economics",
+        "Difficulty Rating": 3.9,
+        "Number of Ratings": 11
+    },
+    {
+        "Name": "Itamar Drechsler",
+        "Average Rating": 4.4,
+        "Department": "Finance",
+        "Difficulty Rating": 3.5,
+        "Number of Ratings": 14
+    },
+    {
+        "Name": "Michael Jung",
+        "Average Rating": 4.7,
+        "Department": "Accounting",
+        "Difficulty Rating": 2.0,
+        "Number of Ratings": 7
+    },
+    {
+        "Name": "Yossef Spiegel",
+        "Average Rating": 5.0,
+        "Department": "Economics",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Kristen Sosulski",
+        "Average Rating": 3.0,
+        "Department": "Information Science",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Michael Waugh",
+        "Average Rating": 3.9,
+        "Department": "Economics",
+        "Difficulty Rating": 2.7,
+        "Number of Ratings": 3
+    },
+    {
+        "Name": "Alixandra Barasch",
+        "Average Rating": 4.9,
+        "Department": "Marketing",
+        "Difficulty Rating": 3.1,
+        "Number of Ratings": 6
+    },
+    {
+        "Name": "Minah Jung",
+        "Average Rating": 5.0,
+        "Department": "Marketing",
+        "Difficulty Rating": 2.5,
+        "Number of Ratings": 6
+    },
+    {
+        "Name": "Bryan Hong",
+        "Average Rating": 4.0,
+        "Department": "Management",
+        "Difficulty Rating": 3.5,
+        "Number of Ratings": 4
+    },
+    {
+        "Name": "Kenneth Bigel",
+        "Average Rating": 4.0,
+        "Department": "Business",
+        "Difficulty Rating": 2.0,
+        "Number of Ratings": 2
+    },
+    {
+        "Name": "Callen Anthony",
+        "Average Rating": 4.2,
+        "Department": "Management",
+        "Difficulty Rating": 3.2,
+        "Number of Ratings": 5
+    },
+    {
+        "Name": "Clifford Hurvich",
+        "Average Rating": 5.0,
+        "Department": "Mathematics",
+        "Difficulty Rating": 2.9,
+        "Number of Ratings": 23
+    },
+    {
+        "Name": "Irving Schenkler",
+        "Average Rating": 4.8,
+        "Department": "Communication",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 13
+    },
+    {
+        "Name": "Michael Dickstein",
+        "Average Rating": 4.8,
+        "Department": "Economics",
+        "Difficulty Rating": 2.8,
+        "Number of Ratings": 21
+    },
+    {
+        "Name": "Simon Bowmaker",
+        "Average Rating": 5.0,
+        "Department": "Economics",
+        "Difficulty Rating": 3.8,
+        "Number of Ratings": 59
+    },
+    {
+        "Name": "David Juran",
+        "Average Rating": 4.9,
+        "Department": "Business",
+        "Difficulty Rating": 3.1,
+        "Number of Ratings": 4
+    },
+    {
+        "Name": "Ashish Bhatia",
+        "Average Rating": 4.4,
+        "Department": "Business",
+        "Difficulty Rating": 2.9,
+        "Number of Ratings": 11
+    },
+    {
+        "Name": "Jeffrey Carr",
+        "Average Rating": 3.0,
+        "Department": "Marketing",
+        "Difficulty Rating": 2.5,
+        "Number of Ratings": 2
+    },
+    {
+        "Name": "John Hopkins",
+        "Average Rating": 5.0,
+        "Department": "Accounting",
+        "Difficulty Rating": 3.5,
+        "Number of Ratings": 16
+    },
+    {
+        "Name": "Chongho Kim",
+        "Average Rating": 5.0,
+        "Department": "Accounting",
+        "Difficulty Rating": 3.3,
+        "Number of Ratings": 16
+    },
+    {
+        "Name": "Thomas Philippon",
+        "Average Rating": 3.9,
+        "Department": "Finance",
+        "Difficulty Rating": 3.8,
+        "Number of Ratings": 8
+    },
+    {
+        "Name": "Impink Stephen",
+        "Average Rating": 1.0,
+        "Department": "Management",
+        "Difficulty Rating": 4.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Elizabeth Howard",
+        "Average Rating": 4.6,
+        "Department": "Management",
+        "Difficulty Rating": 3.4,
+        "Number of Ratings": 16
+    },
+    {
+        "Name": "Navin Chopra",
+        "Average Rating": 1.6,
+        "Department": "Finance",
+        "Difficulty Rating": 4.3,
+        "Number of Ratings": 7
+    },
+    {
+        "Name": "Jeffrey Wurgler",
+        "Average Rating": 3.1,
+        "Department": "Finance",
+        "Difficulty Rating": 3.8,
+        "Number of Ratings": 13
+    },
+    {
+        "Name": "Gary Fraser",
+        "Average Rating": 3.0,
+        "Department": "Business",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 2
+    },
+    {
+        "Name": "Gurpal Sran",
+        "Average Rating": 4.0,
+        "Department": "Accounting",
+        "Difficulty Rating": 4.3,
+        "Number of Ratings": 12
+    },
+    {
+        "Name": "Rich Hendler",
+        "Average Rating": 4.0,
+        "Department": "Law",
+        "Difficulty Rating": 3.4,
+        "Number of Ratings": 10
+    },
+    {
+        "Name": "Ngoc Pham",
+        "Average Rating": 5.0,
+        "Department": "Marketing",
+        "Difficulty Rating": 2.6,
+        "Number of Ratings": 13
+    },
+    {
+        "Name": "Bret Rosen",
+        "Average Rating": 4.0,
+        "Department": "Finance",
+        "Difficulty Rating": 2.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Shan Ge",
+        "Average Rating": 3.3,
+        "Department": "Finance",
+        "Difficulty Rating": 2.9,
+        "Number of Ratings": 11
+    },
+    {
+        "Name": "Joe Porac",
+        "Average Rating": 4.0,
+        "Department": "Business",
+        "Difficulty Rating": 4.0,
+        "Number of Ratings": 8
+    },
+    {
+        "Name": "Scott Schiller",
+        "Average Rating": 1.0,
+        "Department": "Marketing",
+        "Difficulty Rating": 2.5,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Stephen Master",
+        "Average Rating": 2.4,
+        "Department": "Marketing",
+        "Difficulty Rating": 2.8,
+        "Number of Ratings": 19
+    },
+    {
+        "Name": "Jackie Baek",
+        "Average Rating": 5.0,
+        "Department": "Business",
+        "Difficulty Rating": 3.5,
+        "Number of Ratings": 2
+    },
+    {
+        "Name": "David Perkal",
+        "Average Rating": 3.5,
+        "Department": "Accounting",
+        "Difficulty Rating": 3.4,
+        "Number of Ratings": 25
+    },
+    {
+        "Name": "Ningshan Zhang",
+        "Average Rating": 5.0,
+        "Department": "Business",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Indira Puri",
+        "Average Rating": 5.0,
+        "Department": "Finance",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Michael Tang",
+        "Average Rating": 3.0,
+        "Department": "Accounting",
+        "Difficulty Rating": 3.3,
+        "Number of Ratings": 25
+    },
+    {
+        "Name": "Jim Resnik",
+        "Average Rating": 4.5,
+        "Department": "Accounting",
+        "Difficulty Rating": 4.3,
+        "Number of Ratings": 40
+    },
+    {
+        "Name": "Glenn Okun",
+        "Average Rating": 2.6,
+        "Department": "Finance",
+        "Difficulty Rating": 2.3,
+        "Number of Ratings": 9
+    },
+    {
+        "Name": "Sinan Aral",
+        "Average Rating": 4.8,
+        "Department": "Not Specified",
+        "Difficulty Rating": 2.7,
+        "Number of Ratings": 3
+    },
+    {
+        "Name": "Jared Watson",
+        "Average Rating": 4.7,
+        "Department": "Marketing",
+        "Difficulty Rating": 3.5,
+        "Number of Ratings": 10
+    },
+    {
+        "Name": "Radhika Duggal",
+        "Average Rating": 4.0,
+        "Department": "Marketing",
+        "Difficulty Rating": 2.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Lauren Block",
+        "Average Rating": 2.5,
+        "Department": "Marketing",
+        "Difficulty Rating": 2.5,
+        "Number of Ratings": 2
+    },
+    {
+        "Name": "Joel Lanz",
+        "Average Rating": 4.0,
+        "Department": "Accounting",
+        "Difficulty Rating": 2.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Corfman Kim",
+        "Average Rating": 2.5,
+        "Department": "Marketing",
+        "Difficulty Rating": 2.7,
+        "Number of Ratings": 3
+    },
+    {
+        "Name": "Dawn Lesh",
+        "Average Rating": 2.5,
+        "Department": "Marketing",
+        "Difficulty Rating": 5.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Ian Stewart",
+        "Average Rating": 3.3,
+        "Department": "Accounting",
+        "Difficulty Rating": 4.5,
+        "Number of Ratings": 2
+    },
+    {
+        "Name": "Kimberly Rogers",
+        "Average Rating": 4.0,
+        "Department": "Finance",
+        "Difficulty Rating": 3.5,
+        "Number of Ratings": 2
+    },
+    {
+        "Name": "Stephen Brown",
+        "Average Rating": 2.8,
+        "Department": "Finance",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 4
+    },
+    {
+        "Name": "Michael Cohen",
+        "Average Rating": 5.0,
+        "Department": "Marketing",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Hao Xue",
+        "Average Rating": 4.0,
+        "Department": "Accounting",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Aldo Scrofani",
+        "Average Rating": 3.8,
+        "Department": "Business",
+        "Difficulty Rating": 2.9,
+        "Number of Ratings": 4
+    },
+    {
+        "Name": "Stephen Figlewski",
+        "Average Rating": 5.0,
+        "Department": "Finance",
+        "Difficulty Rating": 5.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Praveen Nayyar",
+        "Average Rating": 2.0,
+        "Department": "Business",
+        "Difficulty Rating": 4.0,
+        "Number of Ratings": 4
+    },
+    {
+        "Name": "Richard Levich",
+        "Average Rating": 2.4,
+        "Department": "Finance",
+        "Difficulty Rating": 4.3,
+        "Number of Ratings": 7
+    },
+    {
+        "Name": "Gustavo Vulcano",
+        "Average Rating": 4.8,
+        "Department": "Business",
+        "Difficulty Rating": 3.3,
+        "Number of Ratings": 3
+    },
+    {
+        "Name": "Daria Dzyabura",
+        "Average Rating": 4.7,
+        "Department": "Marketing",
+        "Difficulty Rating": 1.8,
+        "Number of Ratings": 4
+    },
+    {
+        "Name": "Kashi Balachandran",
+        "Average Rating": 4.1,
+        "Department": "Accounting",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 20
+    },
+    {
+        "Name": "Joel Steckel",
+        "Average Rating": 3.8,
+        "Department": "Marketing",
+        "Difficulty Rating": 4.3,
+        "Number of Ratings": 3
+    },
+    {
+        "Name": "John Horton",
+        "Average Rating": 1.5,
+        "Department": "Business",
+        "Difficulty Rating": 4.0,
+        "Number of Ratings": 2
+    },
+    {
+        "Name": "Ruth Stevens",
+        "Average Rating": 1.3,
+        "Department": "Business",
+        "Difficulty Rating": 4.0,
+        "Number of Ratings": 3
+    },
+    {
+        "Name": "Weiwei Weng",
+        "Average Rating": 1.0,
+        "Department": "Design",
+        "Difficulty Rating": 5.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Jessy Hsieh",
+        "Average Rating": 4.1,
+        "Department": "Business",
+        "Difficulty Rating": 4.3,
+        "Number of Ratings": 29
+    },
+    {
+        "Name": "Julian Yeo",
+        "Average Rating": 4.5,
+        "Department": "Accounting",
+        "Difficulty Rating": 4.3,
+        "Number of Ratings": 14
+    },
+    {
+        "Name": "Raluca Ursu",
+        "Average Rating": 3.9,
+        "Department": "Marketing",
+        "Difficulty Rating": 3.5,
+        "Number of Ratings": 15
+    },
+    {
+        "Name": "Thomas Cha",
+        "Average Rating": 4.5,
+        "Department": "Finance",
+        "Difficulty Rating": 2.8,
+        "Number of Ratings": 4
+    },
+    {
+        "Name": "David Yu",
+        "Average Rating": 5.0,
+        "Department": "Finance",
+        "Difficulty Rating": 3.4,
+        "Number of Ratings": 10
+    },
+    {
+        "Name": "Aaron Tenenbein",
+        "Average Rating": 4.3,
+        "Department": "Business",
+        "Difficulty Rating": 3.4,
+        "Number of Ratings": 5
+    },
+    {
+        "Name": "Arpit Gupta",
+        "Average Rating": 5.0,
+        "Department": "Finance",
+        "Difficulty Rating": 2.0,
+        "Number of Ratings": 2
+    },
+    {
+        "Name": "Julianna Pillemer",
+        "Average Rating": 5.0,
+        "Department": "Management",
+        "Difficulty Rating": 3.1,
+        "Number of Ratings": 17
+    },
+    {
+        "Name": "Ashwini Agarwal",
+        "Average Rating": 4.8,
+        "Department": "Finance",
+        "Difficulty Rating": 2.6,
+        "Number of Ratings": 11
+    },
+    {
+        "Name": "Menachem Brenner",
+        "Average Rating": 4.0,
+        "Department": "Finance",
+        "Difficulty Rating": 5.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Jeffrey Simonoff",
+        "Average Rating": 4.3,
+        "Department": "Statistics",
+        "Difficulty Rating": 4.0,
+        "Number of Ratings": 24
+    },
+    {
+        "Name": "Robert Whitelaw",
+        "Average Rating": 4.4,
+        "Department": "Finance",
+        "Difficulty Rating": 4.3,
+        "Number of Ratings": 9
+    },
+    {
+        "Name": "Joel Hasbrouck",
+        "Average Rating": 4.8,
+        "Department": "Finance",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 5
+    },
+    {
+        "Name": "Alex Dontoh",
+        "Average Rating": 4.0,
+        "Department": "Accounting",
+        "Difficulty Rating": 3.1,
+        "Number of Ratings": 27
+    },
+    {
+        "Name": "Elizabeth Boyle",
+        "Average Rating": 2.8,
+        "Department": "Business",
+        "Difficulty Rating": 2.4,
+        "Number of Ratings": 8
+    },
+    {
+        "Name": "Jeffrey Younger",
+        "Average Rating": 4.1,
+        "Department": "Communication",
+        "Difficulty Rating": 3.8,
+        "Number of Ratings": 11
+    },
+    {
+        "Name": "Flavio Bartmann",
+        "Average Rating": 1.8,
+        "Department": "Mathematics",
+        "Difficulty Rating": 4.3,
+        "Number of Ratings": 31
+    },
+    {
+        "Name": "Bruno Abrahao",
+        "Average Rating": 5.0,
+        "Department": "Business",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Ellen Pluta",
+        "Average Rating": 5.0,
+        "Department": "Business",
+        "Difficulty Rating": 3.5,
+        "Number of Ratings": 23
+    },
+    {
+        "Name": "Richard DiSalvo",
+        "Average Rating": 4.3,
+        "Department": "Economics",
+        "Difficulty Rating": 1.0,
+        "Number of Ratings": 2
+    },
+    {
+        "Name": "Dan Gode",
+        "Average Rating": 3.6,
+        "Department": "Accounting",
+        "Difficulty Rating": 3.5,
+        "Number of Ratings": 20
+    },
+    {
+        "Name": "Jacob Koehler",
+        "Average Rating": 4.0,
+        "Department": "Economics",
+        "Difficulty Rating": 4.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Eli Bartov",
+        "Average Rating": 4.0,
+        "Department": "Accounting",
+        "Difficulty Rating": 4.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "John Thomopoulos",
+        "Average Rating": 4.0,
+        "Department": "Accounting",
+        "Difficulty Rating": 4.0,
+        "Number of Ratings": 4
+    },
+    {
+        "Name": "Divya Singhvi",
+        "Average Rating": 5.0,
+        "Department": "Business",
+        "Difficulty Rating": 2.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Sam Craig",
+        "Average Rating": 4.0,
+        "Department": "Marketing",
+        "Difficulty Rating": 2.3,
+        "Number of Ratings": 3
+    },
+    {
+        "Name": "R R Kabaliswaran",
+        "Average Rating": 3.6,
+        "Department": "Business",
+        "Difficulty Rating": 2.5,
+        "Number of Ratings": 11
+    },
+    {
+        "Name": "Yang Sha",
+        "Average Rating": 2.4,
+        "Department": "Marketing",
+        "Difficulty Rating": 2.9,
+        "Number of Ratings": 5
+    },
+    {
+        "Name": "Sinziana Dorobantu",
+        "Average Rating": 4.6,
+        "Department": "Business",
+        "Difficulty Rating": 3.4,
+        "Number of Ratings": 3
+    },
+    {
+        "Name": "John Bildersee",
+        "Average Rating": 5.0,
+        "Department": "Accounting",
+        "Difficulty Rating": 4.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Sonny Tambe",
+        "Average Rating": 4.8,
+        "Department": "Business",
+        "Difficulty Rating": 1.5,
+        "Number of Ratings": 2
+    },
+    {
+        "Name": "Roy Smith",
+        "Average Rating": 5.0,
+        "Department": "Finance",
+        "Difficulty Rating": 2.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Eduardo Davila",
+        "Average Rating": 4.0,
+        "Department": "Finance",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Durairaj Maheswaran",
+        "Average Rating": 5.0,
+        "Department": "Marketing",
+        "Difficulty Rating": 3.1,
+        "Number of Ratings": 7
+    },
+    {
+        "Name": "William Greene",
+        "Average Rating": 4.5,
+        "Department": "Economics",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 2
+    },
+    {
+        "Name": "Alexi Savov",
+        "Average Rating": 4.7,
+        "Department": "Finance",
+        "Difficulty Rating": 3.6,
+        "Number of Ratings": 13
+    },
+    {
+        "Name": "Sean Taylor",
+        "Average Rating": 5.0,
+        "Department": "Computer Science",
+        "Difficulty Rating": 5.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Ephrat Livne-Ofer",
+        "Average Rating": 4.8,
+        "Department": "Management",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 3
+    },
+    {
+        "Name": "Xi Chen",
+        "Average Rating": 5.0,
+        "Department": "Business",
+        "Difficulty Rating": 2.2,
+        "Number of Ratings": 5
+    },
+    {
+        "Name": "Paul Zarowin",
+        "Average Rating": 3.1,
+        "Department": "Accounting",
+        "Difficulty Rating": 3.5,
+        "Number of Ratings": 7
+    },
+    {
+        "Name": "Claudia Perlich",
+        "Average Rating": 5.0,
+        "Department": "Information Science",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 2
+    },
+    {
+        "Name": "Adam Alter",
+        "Average Rating": 4.8,
+        "Department": "Marketing",
+        "Difficulty Rating": 2.1,
+        "Number of Ratings": 9
+    },
+    {
+        "Name": "Panagiotis Adamopoulos",
+        "Average Rating": 5.0,
+        "Department": "Not Specified",
+        "Difficulty Rating": 2.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Edward Melnick",
+        "Average Rating": 3.4,
+        "Department": "Mathematics",
+        "Difficulty Rating": 3.5,
+        "Number of Ratings": 22
+    },
+    {
+        "Name": "Andres Liberman",
+        "Average Rating": 4.0,
+        "Department": "Finance",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 3
+    },
+    {
+        "Name": "Tensie Whelan",
+        "Average Rating": 5.0,
+        "Department": "Business",
+        "Difficulty Rating": 4.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Gavin Kilduff",
+        "Average Rating": 4.9,
+        "Department": "Management",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 24
+    },
+    {
+        "Name": "Alex Siegman",
+        "Average Rating": 5.0,
+        "Department": "Computer Science",
+        "Difficulty Rating": 2.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Claudia Caruana",
+        "Average Rating": 4.9,
+        "Department": "Business",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 11
+    },
+    {
+        "Name": "Niklas Engbom",
+        "Average Rating": 4.5,
+        "Department": "Economics",
+        "Difficulty Rating": 4.5,
+        "Number of Ratings": 8
+    },
+    {
+        "Name": "Anika Sharma",
+        "Average Rating": 2.5,
+        "Department": "Marketing",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 12
+    },
+    {
+        "Name": "Benjamin Zweig",
+        "Average Rating": 3.8,
+        "Department": "Economics",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 4
+    },
+    {
+        "Name": "April Gu",
+        "Average Rating": 5.0,
+        "Department": "Law",
+        "Difficulty Rating": 3.3,
+        "Number of Ratings": 9
+    },
+    {
+        "Name": "A. Sinan Cebenoyan",
+        "Average Rating": 3.8,
+        "Department": "Finance",
+        "Difficulty Rating": 3.3,
+        "Number of Ratings": 14
+    },
+    {
+        "Name": "Joshua Ronen",
+        "Average Rating": 3.4,
+        "Department": "Accounting",
+        "Difficulty Rating": 3.5,
+        "Number of Ratings": 4
+    },
+    {
+        "Name": "Anthony Saunders",
+        "Average Rating": 4.0,
+        "Department": "Finance",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Christine Cuny",
+        "Average Rating": 5.0,
+        "Department": "Accounting",
+        "Difficulty Rating": 3.8,
+        "Number of Ratings": 13
+    },
+    {
+        "Name": "Fausto Gonzalez",
+        "Average Rating": 3.0,
+        "Department": "Marketing",
+        "Difficulty Rating": 5.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Gustavo Schwed",
+        "Average Rating": 5.0,
+        "Department": "Finance",
+        "Difficulty Rating": 4.1,
+        "Number of Ratings": 5
+    },
+    {
+        "Name": "Carol Pluzinski",
+        "Average Rating": 2.3,
+        "Department": "Marketing",
+        "Difficulty Rating": 3.6,
+        "Number of Ratings": 8
+    },
+    {
+        "Name": "Naomi Diamant",
+        "Average Rating": 2.1,
+        "Department": "Management",
+        "Difficulty Rating": 2.1,
+        "Number of Ratings": 4
+    },
+    {
+        "Name": "Henry Assael",
+        "Average Rating": 2.4,
+        "Department": "Marketing",
+        "Difficulty Rating": 3.8,
+        "Number of Ratings": 7
+    },
+    {
+        "Name": "Lucius Riccio",
+        "Average Rating": 4.0,
+        "Department": "Business",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 40
+    },
+    {
+        "Name": "Belen Villalonga",
+        "Average Rating": 3.0,
+        "Department": "Management",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 6
+    },
+    {
+        "Name": "Cecilia Parlatore",
+        "Average Rating": 3.9,
+        "Department": "Finance",
+        "Difficulty Rating": 3.9,
+        "Number of Ratings": 19
+    },
+    {
+        "Name": "Joseph Giraldi",
+        "Average Rating": 4.1,
+        "Department": "Business",
+        "Difficulty Rating": 2.1,
+        "Number of Ratings": 8
+    },
+    {
+        "Name": "Michael Rosenblum",
+        "Average Rating": 2.1,
+        "Department": "Management",
+        "Difficulty Rating": 4.8,
+        "Number of Ratings": 8
+    },
+    {
+        "Name": "Divya Singhvi",
+        "Average Rating": 5.0,
+        "Department": "Management",
+        "Difficulty Rating": 5.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Peter Lakner",
+        "Average Rating": 4.0,
+        "Department": "Business",
+        "Difficulty Rating": 2.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Brian Hanssen",
+        "Average Rating": 4.3,
+        "Department": "Management",
+        "Difficulty Rating": 3.4,
+        "Number of Ratings": 42
+    },
+    {
+        "Name": "Anjolein  Schmeits",
+        "Average Rating": 5.0,
+        "Department": "Finance",
+        "Difficulty Rating": 4.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Navin Manglani",
+        "Average Rating": 5.0,
+        "Department": "Information Science",
+        "Difficulty Rating": 3.5,
+        "Number of Ratings": 108
+    },
+    {
+        "Name": "Jonathan Kinlay",
+        "Average Rating": 3.0,
+        "Department": "Finance",
+        "Difficulty Rating": 2.0,
+        "Number of Ratings": 4
+    },
+    {
+        "Name": "John Czepiel",
+        "Average Rating": 4.0,
+        "Department": "Marketing",
+        "Difficulty Rating": 3.5,
+        "Number of Ratings": 2
+    },
+    {
+        "Name": "Richard Berner",
+        "Average Rating": 4.3,
+        "Department": "Finance",
+        "Difficulty Rating": 2.7,
+        "Number of Ratings": 6
+    },
+    {
+        "Name": "Geeta Menon",
+        "Average Rating": 4.5,
+        "Department": "Marketing",
+        "Difficulty Rating": 1.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Susan Douglas",
+        "Average Rating": 1.5,
+        "Department": "Marketing",
+        "Difficulty Rating": 3.5,
+        "Number of Ratings": 2
+    },
+    {
+        "Name": "Aurel Hizmo",
+        "Average Rating": 4.2,
+        "Department": "Finance",
+        "Difficulty Rating": 2.3,
+        "Number of Ratings": 3
+    },
+    {
+        "Name": "Rosa Abrantes-Metz",
+        "Average Rating": 1.6,
+        "Department": "Not Specified",
+        "Difficulty Rating": 4.5,
+        "Number of Ratings": 4
+    },
+    {
+        "Name": "John Asker",
+        "Average Rating": 4.8,
+        "Department": "Economics",
+        "Difficulty Rating": 2.8,
+        "Number of Ratings": 4
+    },
+    {
+        "Name": "Jianchuan Luo",
+        "Average Rating": 3.4,
+        "Department": "Accounting",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 10
+    },
+    {
+        "Name": "Michael Meisler",
+        "Average Rating": 3.0,
+        "Department": "Accounting",
+        "Difficulty Rating": 4.3,
+        "Number of Ratings": 3
+    },
+    {
+        "Name": "Hila Lifshitz-Assaf",
+        "Average Rating": 4.4,
+        "Department": "Management",
+        "Difficulty Rating": 2.2,
+        "Number of Ratings": 5
+    },
+    {
+        "Name": "Gary Simon",
+        "Average Rating": 2.5,
+        "Department": "Business",
+        "Difficulty Rating": 4.5,
+        "Number of Ratings": 4
+    },
+    {
+        "Name": "Scott Galloway",
+        "Average Rating": 1.0,
+        "Department": "Marketing",
+        "Difficulty Rating": 5.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Steven Raphael",
+        "Average Rating": 2.0,
+        "Department": "Marketing",
+        "Difficulty Rating": 3.3,
+        "Number of Ratings": 3
+    },
+    {
+        "Name": "Ilan Guttman",
+        "Average Rating": 4.4,
+        "Department": "Accounting",
+        "Difficulty Rating": 3.9,
+        "Number of Ratings": 6
+    },
+    {
+        "Name": "Sally Blount-Lyon",
+        "Average Rating": 1.0,
+        "Department": "Management",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 2
+    },
+    {
+        "Name": "G Stern",
+        "Average Rating": 5.0,
+        "Department": "Business",
+        "Difficulty Rating": 1.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Patrick Perry",
+        "Average Rating": 4.5,
+        "Department": "Information Science",
+        "Difficulty Rating": 2.8,
+        "Number of Ratings": 13
+    },
+    {
+        "Name": "Steven Dallas",
+        "Average Rating": 5.0,
+        "Department": "Marketing",
+        "Difficulty Rating": 3.3,
+        "Number of Ratings": 3
+    },
+    {
+        "Name": "Sen Tian",
+        "Average Rating": 5.0,
+        "Department": "Information Science",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 2
+    },
+    {
+        "Name": "Scott Stimpfel",
+        "Average Rating": 1.0,
+        "Department": "Business",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 2
+    },
+    {
+        "Name": "Constantine Yannelis",
+        "Average Rating": 4.3,
+        "Department": "Finance",
+        "Difficulty Rating": 2.8,
+        "Number of Ratings": 6
+    },
+    {
+        "Name": "Maxime Cohen",
+        "Average Rating": 4.9,
+        "Department": "Business",
+        "Difficulty Rating": 2.6,
+        "Number of Ratings": 14
+    },
+    {
+        "Name": "Gino Cattani",
+        "Average Rating": 4.4,
+        "Department": "International Studies",
+        "Difficulty Rating": 3.4,
+        "Number of Ratings": 9
+    },
+    {
+        "Name": "April Klein",
+        "Average Rating": 3.3,
+        "Department": "Accounting",
+        "Difficulty Rating": 3.3,
+        "Number of Ratings": 11
+    },
+    {
+        "Name": "Michael North",
+        "Average Rating": 5.0,
+        "Department": "Management",
+        "Difficulty Rating": 3.1,
+        "Number of Ratings": 16
+    },
+    {
+        "Name": "Kose John",
+        "Average Rating": 5.0,
+        "Department": "Finance",
+        "Difficulty Rating": 2.4,
+        "Number of Ratings": 3
+    },
+    {
+        "Name": "Shelly London",
+        "Average Rating": 5.0,
+        "Department": "Communication",
+        "Difficulty Rating": 3.4,
+        "Number of Ratings": 4
+    },
+    {
+        "Name": "Toomas Laarits",
+        "Average Rating": 5.0,
+        "Department": "Finance",
+        "Difficulty Rating": 3.3,
+        "Number of Ratings": 10
+    },
+    {
+        "Name": "Anat Lechner",
+        "Average Rating": 3.4,
+        "Department": "Management",
+        "Difficulty Rating": 2.4,
+        "Number of Ratings": 3
+    },
+    {
+        "Name": "Joshua Loftus",
+        "Average Rating": 2.6,
+        "Department": "Mathematics",
+        "Difficulty Rating": 4.0,
+        "Number of Ratings": 25
+    },
+    {
+        "Name": "Nicholas Zarra",
+        "Average Rating": 5.0,
+        "Department": "Finance",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Susan Stehlik",
+        "Average Rating": 3.9,
+        "Department": "Communication",
+        "Difficulty Rating": 2.4,
+        "Number of Ratings": 25
+    },
+    {
+        "Name": "Arash Asadpour",
+        "Average Rating": 3.4,
+        "Department": "Information Science",
+        "Difficulty Rating": 3.9,
+        "Number of Ratings": 5
+    },
+    {
+        "Name": "Wenqiang Xiao",
+        "Average Rating": 4.0,
+        "Department": "Information Science",
+        "Difficulty Rating": 2.3,
+        "Number of Ratings": 10
+    },
+    {
+        "Name": "Daniel Cohen",
+        "Average Rating": 5.0,
+        "Department": "Marketing",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 3
+    },
+    {
+        "Name": "Luis Cabral",
+        "Average Rating": 2.7,
+        "Department": "Economics",
+        "Difficulty Rating": 2.3,
+        "Number of Ratings": 3
+    },
+    {
+        "Name": "Halina Frydman",
+        "Average Rating": 3.3,
+        "Department": "Business",
+        "Difficulty Rating": 3.3,
+        "Number of Ratings": 34
+    },
+    {
+        "Name": "Shuqing Huang",
+        "Average Rating": 5.0,
+        "Department": "Accounting",
+        "Difficulty Rating": 2.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Bruce Tuckman",
+        "Average Rating": 3.6,
+        "Department": "Finance",
+        "Difficulty Rating": 4.1,
+        "Number of Ratings": 9
+    },
+    {
+        "Name": "Monica Stallings",
+        "Average Rating": 3.8,
+        "Department": "Management",
+        "Difficulty Rating": 3.0,
+        "Number of Ratings": 12
+    },
+    {
+        "Name": "Melissa Schilling",
+        "Average Rating": 2.8,
+        "Department": "Management",
+        "Difficulty Rating": 2.8,
+        "Number of Ratings": 4
+    },
+    {
+        "Name": "Joseph Goodale",
+        "Average Rating": 5.0,
+        "Department": "Business",
+        "Difficulty Rating": 2.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "David Purdy",
+        "Average Rating": 3.6,
+        "Department": "Management",
+        "Difficulty Rating": 3.3,
+        "Number of Ratings": 15
+    },
+    {
+        "Name": "Viral Acharya",
+        "Average Rating": 3.0,
+        "Department": "Finance",
+        "Difficulty Rating": 2.0,
+        "Number of Ratings": 1
+    },
+    {
+        "Name": "Aleksander Aleszczyk",
+        "Average Rating": 5.0,
+        "Department": "Accounting",
+        "Difficulty Rating": 3.3,
+        "Number of Ratings": 28
+    },
+    {
+        "Name": "Michelle Greenwald",
+        "Average Rating": 3.6,
+        "Department": "Marketing",
+        "Difficulty Rating": 3.3,
+        "Number of Ratings": 5
+    },
+    {
+        "Name": "Lioubov Pogorelova",
+        "Average Rating": 3.0,
+        "Department": "Business",
+        "Difficulty Rating": 3.8,
+        "Number of Ratings": 43
+    },
+    {
+        "Name": "Eric Greenleaf",
+        "Average Rating": 4.1,
+        "Department": "Marketing",
+        "Difficulty Rating": 3.1,
+        "Number of Ratings": 20
+    },
+    {
+        "Name": "Robert Seamans",
+        "Average Rating": 5.0,
+        "Department": "Business",
+        "Difficulty Rating": 1.5,
+        "Number of Ratings": 2
+    },
+    {
+        "Name": "Avi Giloni",
+        "Average Rating": 4.3,
+        "Department": "Business",
+        "Difficulty Rating": 3.6,
+        "Number of Ratings": 60
+    },
+    {
+        "Name": "Zhengyuan Zhou",
+        "Average Rating": 4.3,
+        "Department": "Business",
+        "Difficulty Rating": 4.0,
+        "Number of Ratings": 4
+    },
+    {
+        "Name": "Ava Sirrah",
+        "Average Rating": 4.0,
+        "Department": "Management",
+        "Difficulty Rating": 4.1,
+        "Number of Ratings": 14
+    }
+]

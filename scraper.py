@@ -3,7 +3,17 @@ import requests
 import re
 
 # School number on ratemyprofessors.com
-school_number = "675"
+school_number = "5724"
+
+"""
+Make a simple get request to the URL to get the following variables:
+
+- schoolID: The ID of the school
+- resultCount: The total number of professors to scrape data for
+- schoolName: The name of the school as displayed on ratemyprofessors.com
+
+Returns a tuple of (schoolID, resultCount, schoolName)
+"""
 
 
 def make_initial_request(school_number: int) -> tuple:
@@ -48,6 +58,17 @@ def make_initial_request(school_number: int) -> tuple:
         print("No school name found.")
 
     return (school_id, result_count, school_name)
+
+
+"""
+Get the data for each Professor.
+
+Makes a post request to the graphql endpoint, which returns data for chunk_size professors at a time.
+We have to scrape the data in chunks to avoid hitting the rate limit and causing an error.
+A cursor is used to keep track of where we are in the response.
+
+Returns a list of dictionaries containing the data
+"""
 
 
 def get_teacher_data(
@@ -211,6 +232,7 @@ for entry in data:
         }
     )
 
+# Convert scraped Professor data to DataFrame
 df = pd.DataFrame(parsed_data)
 # Keep only unique rows
 df = df.drop_duplicates()
